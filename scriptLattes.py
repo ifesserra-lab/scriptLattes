@@ -19,11 +19,12 @@
 #
 #
 import sys
+import argparse
 import datetime
 from scriptLattes.grupo import *
 from scriptLattes.util import *
 
-def executar_scriptLattes(arquivoConfiguracao):
+def executar_scriptLattes(arquivoConfiguracao, somente_json=False):
     print("[SCRIPTLATTES INICIADO]\n")
     # os.chdir( os.path.abspath(os.path.join(arquivoConfiguracao, os.pardir)))
     tempo_inicial = datetime.datetime.now()
@@ -34,13 +35,17 @@ def executar_scriptLattes(arquivoConfiguracao):
     if criarDiretorio(novoGrupo.obterParametro('global-diretorio_de_saida')):
         novoGrupo.carregarDadosCVLattes() #obrigatorio
         novoGrupo.compilarListasDeItems() # obrigatorio
-        novoGrupo.gerarGrafosDeColaboracoes() # obrigatorio
-        novoGrupo.gerarPaginasWeb() # obrigatorio
-        novoGrupo.gerarArquivosTemporarios() # obrigatorio
+        
+        if not somente_json:
+            novoGrupo.gerarGrafosDeColaboracoes() # obrigatorio
+            novoGrupo.gerarPaginasWeb() # obrigatorio
+            novoGrupo.gerarArquivosTemporarios() # obrigatorio
+        
         novoGrupo.gerarArquivosJSONIndividuais() # gerar JSON individual por pesquisador
 
-        # copiar css
-        copiarArquivos(novoGrupo.obterParametro('global-diretorio_de_saida'))
+        if not somente_json:
+            # copiar css
+            copiarArquivos(novoGrupo.obterParametro('global-diretorio_de_saida'))
 
         # finalizando o processo
         print ('\n[PARA REFERENCIAR/CITAR ESTE SOFTWARE USE] \n\
@@ -68,11 +73,9 @@ def formatar_tempo_decorrido(tempo_decorrido):
 
 
 if __name__ == "__main__":
-    #logger = logging.getLogger(__name__)
-    #logging.basicConfig(format='%(asctime)s - %(levelname)s (%(name)s) - %(message)s')
-    #logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s')
-    #logging.root.setLevel(level=logging.INFO)
-    #logging.root.setLevel(level=logging.DEBUG)
-    #logger.info("Executando '{}'".format(' '.join(sys.argv)))
+    parser = argparse.ArgumentParser(description='scriptLattes runner')
+    parser.add_argument('config', help='Configuration file')
+    parser.add_argument('--somente-json', action='store_true', help='Generate JSON files only')
+    args = parser.parse_args()
 
-    executar_scriptLattes(sys.argv[1])
+    executar_scriptLattes(args.config, somente_json=args.somente_json)

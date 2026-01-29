@@ -320,7 +320,14 @@ class Grupo:
     def gerarArquivosJSONIndividuais(self):
         # Create JSON directory
         dir_saida = self.obterParametro('global-diretorio_de_saida')
-        json_dir = os.path.join(dir_saida, 'json')
+        
+        # Check for custom JSON output directory
+        json_dir_param = self.obterParametro('global-diretorio_de_saida_json')
+        if json_dir_param:
+             json_dir = json_dir_param
+        else:
+             json_dir = os.path.join(dir_saida, 'json')
+
         util.criarDiretorio(json_dir)
         
         print('\n[GERANDO ARQUIVOS JSON INDIVIDUAIS POR PESQUISADOR]')
@@ -817,6 +824,8 @@ class Grupo:
 
         [self.matrizDeAdjacencia, self.matrizDeFrequencia, self.listaDeColaboracoes] = self.compilador.uniaoDeMatrizesDeColaboracao()
         self.vetorDeCoAutoria = self.matrizDeFrequencia.sum(axis=1)  # soma das linhas = num. de items feitos em co-autoria (parceria) com outro membro do grupo
+        if hasattr(self.vetorDeCoAutoria, 'A1'):
+            self.vetorDeCoAutoria = self.vetorDeCoAutoria.A1
         self.matrizDeFrequenciaNormalizada = self.matrizDeFrequencia.copy()
 
         for i in range(0, self.numeroDeMembros()):
@@ -1062,6 +1071,7 @@ class Grupo:
         self.listaDeParametros.append(['global-nome_do_grupo', ''])
         self.listaDeParametros.append(['global-arquivo_de_entrada', ''])
         self.listaDeParametros.append(['global-diretorio_de_saida', ''])
+        self.listaDeParametros.append(['global-diretorio_de_saida_json', ''])
         self.listaDeParametros.append(['global-email_do_admin', ''])
         self.listaDeParametros.append(['global-idioma', 'PT'])
         self.listaDeParametros.append(['global-itens_desde_o_ano', ''])
