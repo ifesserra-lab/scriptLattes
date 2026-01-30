@@ -193,13 +193,16 @@ global-diretorio_de_saida_json = ./resultados/json
 
 **4. Crie seu script Python (ex: `analise.py`):**
 ```python
-from scriptLattes.grupo import Grupo
+from scriptLattes.run import executar_scriptLattes
 
 print("Iniciando análise...")
-grupo = Grupo("meu_projeto.config")
-grupo.carregarDadosCVLattes()
-grupo.compilarListasDeItems()
-grupo.gerarArquivosJSONIndividuais()
+
+# Opção 1: Execução completa (HTML + Grafos + JSON)
+executar_scriptLattes("meu_projeto.config")
+
+# Opção 2: Gerar apenas arquivos JSON (mais rápido)
+# executar_scriptLattes("meu_projeto.config", somente_json=True)
+
 print("Concluído! Verifique a pasta ./resultados")
 ```
 
