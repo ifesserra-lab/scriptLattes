@@ -41,7 +41,19 @@ O scriptLattes atualmente permite filtrar as produções científicas usando ter
   - macOS: `brew install jq`
 - **wget**: Para download do ChromeDriver (geralmente já instalado)
 
-## Instalação Rápida (Recomendada)
+## Instalação
+
+### Instalação via pip (Recomendada para uso como biblioteca)
+Se você deseja usar o `scriptLattes` em seus próprios projetos Python ou como uma ferramenta de linha de comando instalada globalmente:
+
+```bash
+git clone https://github.com/jpmenachalco/scriptLattes.git
+cd scriptLattes
+pip install .
+```
+
+### Instalação para Desenvolvimento
+Para contribuir com o projeto ou executar o script isoladamente:
 
 Para uma instalação completa automatizada, use o Makefile incluído:
 
@@ -118,6 +130,26 @@ source venv/bin/activate  # Linux/Mac
 python3 scriptLattes.py exemplo/teste-01.config
 ```
 
+### Uso como Biblioteca Python
+
+O `scriptLattes` podes ser importado e utilizado diretamente em seus scripts Python. Veja um exemplo completo em [`exemplo/manual_example.py`](exemplo/manual_example.py).
+
+```python
+from scriptLattes.grupo import Grupo
+
+# Inicializar com arquivo de configuração
+grupo = Grupo('caminho/para/config.config')
+
+# Carregar dados
+grupo.carregarDadosCVLattes()
+
+# Compilar listas
+grupo.compilarListasDeItems()
+
+# Gerar saídas
+grupo.gerarArquivosJSONIndividuais()
+```
+
 ## Estrutura de Saída
 
 O scriptLattes gera vários tipos de saída para análise dos dados extraídos:
@@ -128,7 +160,7 @@ O scriptLattes gera vários tipos de saída para análise dos dados extraídos:
 - Mapas de geolocalização dos pesquisadores e orientandos
 
 ### **Novidade: Exportação JSON Individual Completa**
-A partir da versão atual, o scriptLattes gera automaticamente **arquivos JSON individuais para cada pesquisador** na pasta `json/` do diretório de saída.
+A partir da versão atual, o scriptLattes gera automaticamente **arquivos JSON individuais para cada pesquisador**. Por padrão, os arquivos são salvos na pasta `json/` do diretório de saída, mas isso pode ser customizado via configuração com `global-diretorio_de_saida_json`.
 
 **Estrutura Completa do JSON por pesquisador:**
 - `informacoes_pessoais`: Dados básicos do pesquisador (Nome, ID Lattes, endereço profissional, etc.)
@@ -151,6 +183,7 @@ A partir da versão atual, o scriptLattes gera automaticamente **arquivos JSON i
 
 ```bash
 # Listar todos os projetos de desenvolvimento (nova funcionalidade)
+# Nota: Substitua 'json/' pelo seu diretório customizado se configurado
 jq '.projetos_desenvolvimento[].nome' json/00_Paulo-Sergio-*.json
 
 # Verificar todas as áreas de atuação com especialidades
@@ -356,6 +389,7 @@ Para histórico completo de mudanças, versões e detalhes técnicos, consulte:
 - **[CHANGELOG.md](CHANGELOG.md)** - Histórico detalhado de mudanças e correções
 - **[CONTRIBUTING.md](CONTRIBUTING.md)** - Guia completo para contribuições e desenvolvimento
 - **[exemplo/](exemplo/)** - Arquivos de configuração e exemplos de uso
+- **[exemplo/manual_example.py](exemplo/manual_example.py)** - Exemplo de uso como biblioteca
 - **[README.md](README.md)** - Documentação principal (este arquivo)
 
 ### Como Contribuir

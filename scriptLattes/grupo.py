@@ -140,7 +140,7 @@ class Grupo:
 
         if self.obterParametro('global-identificar_producoes_por_termos'):
             # carregamos a lista de termos
-            entrada = buscarArquivo(self.obterParametro('global-arquivo_de_termos_de_busca'))
+            entrada = buscarArquivo(self.obterParametro('global-arquivo_de_termos_de_busca'), self.arquivoConfiguracao)
             for linha in fileinput.input(entrada):
                 linha = linha.replace("\r", "")
                 linha = linha.replace("\n", "")
@@ -157,7 +157,7 @@ class Grupo:
 
 
         # carregamos a lista de membros
-        entrada = buscarArquivo(self.obterParametro('global-arquivo_de_entrada'))
+        entrada = buscarArquivo(self.obterParametro('global-arquivo_de_entrada'), self.arquivoConfiguracao)
 
         idSequencial = 0
         for linha in fileinput.input(entrada):

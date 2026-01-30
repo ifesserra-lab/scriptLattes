@@ -1,0 +1,1403 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "6927212610032092",
+    "nome_completo": "Renato Tannure Rotta de Almeida",
+    "nome_citacoes": "ALMEIDA, R. T. R.;ALMEIDA, R. T.",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "04/04/2025",
+    "url": "http://lattes.cnpq.br/6927212610032092",
+    "texto_resumo": "Possui graduação em Engenharia Elétrica (1997), mestrado em Engenharia Elétrica (1999) e doutorado em Engenharia Elétrica (2005) pela Universidade Federal do Espírito Santo. Atualmente é professor do Instituto Federal de Educação C&Tdo Espírito Santo (Ifes). Tem experiência na área de Engenharia Elétrica, com ênfase em Sistemas de Telecomunicações, atuando principalmente nos seguintes temas: redes ópticas com roteamento de tráfego por comprimentos de onda, projeto de topologias lógicas, meta-heurísticas e formulações de programação linear mista aplicados à otimização de roteamento de tráfego e alocação de recursos em redes ópticas WDM, sistemas de comunicação sem fio aplicados a telemetria e redes de sensores e sistemas eletrônicos embarcados com interfaces integradas de comunicação sem fio. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Engenharia Elétrica",
+      "nome_instituicao": "Universidade Federal do Espírito Santo, UFES, Brasil",
+      "ano_inicio": "2000",
+      "ano_conclusao": "2005",
+      "descricao": "Título: Projeto de Topologias Virtuais para Redes Ópticas Multiserviço O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de obtenção: 2005. Orientador: Luiz de Calazans Calmon. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. Palavras-chave: otimização de redes ópticas; topologia virtual; roteamento de tráfego; redes ópticas WDM; classes de tráfego. Grande área: Engenharias Setores de atividade: Fabricação de Aparelhos e Equipamentos de Telecomunicação."
+    },
+    {
+      "tipo": "Mestrado em Engenharia Elétrica",
+      "nome_instituicao": "Universidade Federal do Espírito Santo, UFES, Brasil",
+      "ano_inicio": "1997",
+      "ano_conclusao": "1999",
+      "descricao": "Título: Efeitos da Interação Não Linear entre Sinal e Ruído em Sistemas Ópticos Multiamplificados O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2000. Orientador: Luiz de Calazans Calmon. Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil. Palavras-chave: Instabilidade de Modulação; Ruído ASE; Sistemas Ópticos Multiamplificados; Compensação de Dispersão; Modulação Cruzada de Fase; Auto-Modulação de Fase. Grande área: Engenharias Setores de atividade: Fabricação de Aparelhos e Equipamentos de Telecomunicação."
+    },
+    {
+      "tipo": "Graduação em Engenharia Elétrica",
+      "nome_instituicao": "Universidade Federal do Espírito Santo, UFES, Brasil",
+      "ano_inicio": "1992",
+      "ano_conclusao": "1997",
+      "descricao": ""
+    },
+    {
+      "tipo": "Curso técnico/profissionalizante em Curso Técnico Em Eletrotécnica",
+      "nome_instituicao": "Escola Técnica Federal do Espírito Santo, ETF-ES, Brasil",
+      "ano_inicio": "1989",
+      "ano_conclusao": "1992",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil.",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "2009 - Atual",
+      "ano_inicio": "2009",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": "Prof. do Ensino Profissional e Tecnológico",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino Profissional e Tecnológico, Carga horária: 40, Regime: Dedicação exclusiva."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "06/2013 - Atual",
+      "ano_inicio": "2013",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Reitoria."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "01/2009 - Atual",
+      "ano_inicio": "2009",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "01/2009 - 05/2015",
+      "ano_inicio": "2009",
+      "ano_fim": "2015",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "04/2011 - 07/2014",
+      "ano_inicio": "2011",
+      "ano_fim": "2014",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "01/2009 - 03/2014",
+      "ano_inicio": "2009",
+      "ano_fim": "2014",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "01/2011 - 06/2013",
+      "ano_inicio": "2011",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "01/2009 - 06/2013",
+      "ano_inicio": "2009",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "01/2011 - 04/2013",
+      "ano_inicio": "2011",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "01/2009 - 12/2012",
+      "ano_inicio": "2009",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Secretaria Municipal de Desenvolvimento Econômico de Serra - SEDEC/PMS/ES."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "01/2010 - 12/2011",
+      "ano_inicio": "2010",
+      "ano_fim": "2011",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "01/2009 - 12/2009",
+      "ano_inicio": "2009",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "03/2009 - 07/2009",
+      "ano_inicio": "2009",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Federal de Educação Tecnológica do Espírito Santo, CEFETES, Brasil.",
+      "instituicao_nome": "Centro Federal de Educação Tecnológica do Espírito Santo",
+      "instituicao_sigla": "CEFETES",
+      "instituicao_pais": "Brasil",
+      "periodo": "2003 - 2008",
+      "ano_inicio": "2003",
+      "ano_fim": "2008",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professor",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Federal de Educação Tecnológica do Espírito Santo, CEFETES, Brasil",
+      "instituicao_nome": "Centro Federal de Educação Tecnológica do Espírito Santo",
+      "instituicao_sigla": "CEFETES",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2008 - 12/2008",
+      "ano_inicio": "2008",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Federal de Educação Tecnológica do Espírito Santo, CEFETES, Brasil",
+      "instituicao_nome": "Centro Federal de Educação Tecnológica do Espírito Santo",
+      "instituicao_sigla": "CEFETES",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2008 - 12/2008",
+      "ano_inicio": "2008",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino, Superior de Tecn."
+      ]
+    },
+    {
+      "instituicao": "Centro Federal de Educação Tecnológica do Espírito Santo, CEFETES, Brasil",
+      "instituicao_nome": "Centro Federal de Educação Tecnológica do Espírito Santo",
+      "instituicao_sigla": "CEFETES",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2008 - 12/2008",
+      "ano_inicio": "2008",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Direção e administração, Centro Federal de Educação Tecnológica do Espírito Santo."
+      ]
+    },
+    {
+      "instituicao": "Centro Federal de Educação Tecnológica do Espírito Santo, CEFETES, Brasil",
+      "instituicao_nome": "Centro Federal de Educação Tecnológica do Espírito Santo",
+      "instituicao_sigla": "CEFETES",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2008 - 12/2008",
+      "ano_inicio": "2008",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Prefeitura Municipal de Serra - Secretaria de Desenvolvimento Econômico."
+      ]
+    },
+    {
+      "instituicao": "Centro Federal de Educação Tecnológica do Espírito Santo, CEFETES, Brasil",
+      "instituicao_nome": "Centro Federal de Educação Tecnológica do Espírito Santo",
+      "instituicao_sigla": "CEFETES",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2003 - 07/2008",
+      "ano_inicio": "2003",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Federal de Educação Tecnológica do Espírito Santo, CEFETES, Brasil",
+      "instituicao_nome": "Centro Federal de Educação Tecnológica do Espírito Santo",
+      "instituicao_sigla": "CEFETES",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2005 - 07/2006",
+      "ano_inicio": "2005",
+      "ano_fim": "2006",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Unidade de Serra."
+      ]
+    },
+    {
+      "instituicao": "Centro Federal de Educação Tecnológica do Espírito Santo, CEFETES, Brasil",
+      "instituicao_nome": "Centro Federal de Educação Tecnológica do Espírito Santo",
+      "instituicao_sigla": "CEFETES",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2005 - 12/2005",
+      "ano_inicio": "2005",
+      "ano_fim": "2005",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Espírito Santo, UFES, Brasil.",
+      "instituicao_nome": "Universidade Federal do Espírito Santo",
+      "instituicao_sigla": "UFES",
+      "instituicao_pais": "Brasil",
+      "periodo": "1992 - 2005",
+      "ano_inicio": "1992",
+      "ano_fim": "2005",
+      "vinculo": "Estudante",
+      "enquadramento": "Estudante",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Espírito Santo, UFES, Brasil",
+      "instituicao_nome": "Universidade Federal do Espírito Santo",
+      "instituicao_sigla": "UFES",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/1998 - 08/2005",
+      "ano_inicio": "1998",
+      "ano_fim": "2005",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Centro Tecnológico, Departamento de Engenharia Elétrica."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Espírito Santo, UFES, Brasil",
+      "instituicao_nome": "Universidade Federal do Espírito Santo",
+      "instituicao_sigla": "UFES",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/1997 - 07/1997",
+      "ano_inicio": "1997",
+      "ano_fim": "1997",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "Projeto de Topologias Lógicas e Roteamento de Tráfego em Redes Ópticas",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2010",
+      "descricao": [
+        "Descrição: Os problemas de projeto de topologias virtuais e roteamento de tráfego em redes ópticas podem ser representados de maneira exata por modelos de programação linear mista. Tais modelos de otimização combinatorial são de difícil tratamento computacional, requerendo a utilização de técnicas de redução do espaço de busca e métodos aproximados, ou heurísticas, com menor custo computacional, normalmente em detrimento da qualidade da solução obtida. Este trabalho estudará heurísticas, formulações de programação linear e de programação linear inteira-mista com o propósito de estudar sua eficiência em termos de duas métricas importantes para a avaliação da qualidade da solução obtida para os sub-problemas abordados, que são o congestionamento e o processamento eletrônico de tráfego nos nós. Para serem consideradas eficientes, os métodos estudados deverão proporcionar pelo menos boas soluções para estas métricas com esforço computacional razoável. Uma solução é considerada boa quando se aproxima de um limite inferior teórico ou de uma solução ótima conhecidos, que deverão ser coletados da bibliografia disponível ou então determinados nos estudos desenvolvidos neste projeto, segundo cada caso. A qualidade da solução de uma heurística considerada eficiente não poderá depender das demandas de tráfego entre os nós da rede, sendo tal avaliação realizada em um estudo estatístico num espaço amostral com diversas matrizes de tráfego geradas aleatoriamente. O objetivo geral deste projeto é propor formulações de programação matemática e métodos heurísticos eficientes para os sub-problemas de projeto de topologias lógicas e roteamento de tráfego, chegando a soluções próximas de limites teóricos conhecidos com reduzido esforço computacional. Os objetivos específicos são: a) Avaliar as soluções obtidas para o roteamento de tráfego em termos de congestionamento e processamento de tráfego nos nós; b) Investigar qual é a eficiência das diversas heurísticas e formulações de prog. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Renato Tannure Rotta de Almeida - Coordenador / Sérgio Nery Simões - Integrante / Francisco de Assis Boldt - Integrante. Número de produções C, T & A: 14"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Renato Tannure Rotta de Almeida",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Sérgio Nery Simões",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Francisco de Assis Boldt",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Projeto de Redes Ópticas Baseado em Anéis Hierárquicos",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2007",
+      "descricao": [
+        "Descrição: Este projeto tem por objetivo investigar melhores formas de combinações de diferentes técnicas de resolução do problema de dimensionamento de uma rede óptica de telecomunicações, considerando a arquitetura de anéis hierárquicos. São utilizados métodos de busca heurística baseados em meta-heurísticas tais como: Simulated Annealing , Algorítmo Genético, Tabu Search, e Greedy Randomized Adaptive Search Procedure combinados com métodos de programaçãao matemática como a Programação Linear (LP) e a Programação Linear Inteira Mista (MILP).. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (1) / Doutorado: (1) . Integrantes: Renato Tannure Rotta de Almeida - Integrante / Marcelo Eduardo Vieira Segatto - Coordenador / Luiz Carlos Bueno - Integrante / Edson Pereira Cardoso - Integrante. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro. Número de produções C, T & A: 7"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Renato Tannure Rotta de Almeida",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marcelo Eduardo Vieira Segatto",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Luiz Carlos Bueno",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Edson Pereira Cardoso",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Ferramentas de Otimização para Fluxo em Redes Ópticas",
+      "ano_inicio": "2003",
+      "ano_conclusao": "2005",
+      "descricao": [
+        "Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (1) / Doutorado: (1) . Integrantes: Renato Tannure Rotta de Almeida - Integrante / Luiz de Calazans Calmon - Integrante / Marcelo Eduardo Vieira Segatto - Coordenador / Luiz Carlos Bueno - Integrante / Elias S. Oliveira - Integrante. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro. Número de produções C, T & A: 7"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Renato Tannure Rotta de Almeida",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luiz de Calazans Calmon",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Marcelo Eduardo Vieira Segatto",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Luiz Carlos Bueno",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Elias S",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Engenharias",
+      "area": "Engenharia Elétrica",
+      "subarea": "Telecomunicações",
+      "especialidade": "Sistemas de Telecomunicações",
+      "descricao_completa": "Grande área: Engenharias / Área: Engenharia Elétrica / Subárea: Telecomunicações/Especialidade: Sistemas de Telecomunicações."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Educação",
+      "subarea": "Ensino-Aprendizagem",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Educação / Subárea: Ensino-Aprendizagem."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Português",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    }
+  ],
+  "premios_titulos": [
+    {
+      "descricao": "Prêmio Nacional para Produção Científica - 2. lugar, Telexpo.",
+      "ano": 1998
+    }
+  ],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Sistemas de Telecomunicações",
+      "objetivo": ""
+    },
+    {
+      "nome": "Redes Ópticas",
+      "objetivo": "- Estudo e implementação de algoritmos de otimização aplicados ao projeto de topologias lógicas, roteamento de tráfego, roteamento e designação de comprimentos de onda em redes ópticas. - Desenvolvimento de modelos computacionais para auxílio ao projeto de enlaces ópticos com amplificação Raman.. Grande área: Engenharias Setores de atividade: Telecomunicações. Palavras-chave: redes ópticas WDM; planejamento de redes ópticas; topologia lógica; designação de comprimentos de onda; programação linear; heurísticas."
+    },
+    {
+      "nome": "Redes Sem Fio",
+      "objetivo": "- Desenvolver equipamentos e aplicativos computacionais para redes sem fio.. Grande área: Engenharias Setores de atividade: Fabricação de equipamentos de informática, produtos eletrônicos e ópticos. Palavras-chave: computação móvel; comunicação serial; radiação eletromagnética; rede de sensores; rede sem fio; telemetria."
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Design of Virtual Topologies for Large OpticalNetworks Through an Efficient MILP Formulation",
+        "ano": 2006,
+        "autores": "ALMEIDA, R. T. R.; CALMON, L. C. ; SEGATTO, M. E. V. ; OLIVEIRA, E. S.",
+        "revista": "Optical Switching and Networking",
+        "volume": "3",
+        "numero": "",
+        "paginas": "2-10",
+        "issn": "1573-4277",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Análise da Depleção causada por SRS em WDM (2 e 3 x2.5 gb/s) usando Fibras DS",
+        "ano": 1999,
+        "autores": "ALMEIDA, R. T. R.; NEVES, S. P. ; FREITAS, M. ; RIBEIRO, M. R. N. ; CALMON, L. C.",
+        "revista": "Telecomunicações (Santa Rita do Sapucaí)",
+        "volume": "2",
+        "numero": "2",
+        "paginas": "17-21",
+        "issn": "1516-2338",
+        "doi": "",
+        "qualis": ""
+      },
+      {
+        "titulo": "Instabilidade de modulação em sistemas ópticos multiamplificados: fundamentos e projetos de sistemas",
+        "ano": 1999,
+        "autores": "ALMEIDA, R. T. R.; FREITAS, M. ; RIBEIRO, M. R. N. ; CALMON, L. C.",
+        "revista": "Telecomunicações (Santa Rita do Sapucaí)",
+        "volume": "2",
+        "numero": "2",
+        "paginas": "17-22",
+        "issn": "1516-2338",
+        "doi": "",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "Limite Inferior Analítico para a Retransmissão de Tráfego em Redes Ópticas Semitransparentes",
+        "ano": 2012,
+        "autores": "LIMA, F. O. ; SEGATTO, M. E. V. ; ALMEIDA, R. T. R. ; PAIVA, M.",
+        "evento": "MOMAG 2012",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Otimização Iterativa de Topologias Lógicas de Redes Ópticas WDM",
+        "ano": 2010,
+        "autores": "ALMEIDA, R. T. R.; ASSIS, K. D. R. ; SIMOES, S. N.",
+        "evento": "XLII Simpósio Brasileiro de Pesquisa Operacional",
+        "cidade": "",
+        "paginas": "1-1",
+        "isbn": ""
+      },
+      {
+        "titulo": "Projeto Completo de Redes Ópticas",
+        "ano": 2010,
+        "autores": "LIMA, F. O. ; LIMA, M. ; SEGATTO, M. E. V. ; ALMEIDA, R. T. R. ; OLIVEIRA, E. S.",
+        "evento": "MOMAG 2010",
+        "cidade": "",
+        "paginas": "1-1",
+        "isbn": ""
+      },
+      {
+        "titulo": "Projeto Completo de Redes Ópticas em Hierarquia",
+        "ano": 2010,
+        "autores": "LIMA, F. O. ; LIMA, M. ; SEGATTO, M. E. V. ; ALMEIDA, R. T. R.",
+        "evento": "MOMAG 2010",
+        "cidade": "",
+        "paginas": "1-1",
+        "isbn": ""
+      },
+      {
+        "titulo": "Um Modelo Eficiente para o Projeto Completo de Redes Ópticas",
+        "ano": 2009,
+        "autores": "LIMA, F. O. ; ALMEIDA, R. T. R. ; SEGATTO, M. E. V. ; OLIVEIRA, E. S.",
+        "evento": "XLI Simpósio Brasileiro de Pesquisa Operacional",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Análise de Redes Ópticas em Anéis Hierárquicos",
+        "ano": 2007,
+        "autores": "PAIVA, M. ; SILVA, M. ; SOUZA, R. F. ; LAVAGNOLI, G. L. S. ; Lima, M. O. ; FRANCES, C. R. L. ; COSTA, J. W. ; ALMEIDA, R. T. R. ; OLIVEIRA, E. S. ; SEGATTO, M. E. V.",
+        "evento": "XXV Simpósio Brasileiro de Telecomunicações",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Projetos de topologias lógicas e roteamento de tráfego em redes ópticas",
+        "ano": 2007,
+        "autores": "LUCHI, D. ; ALMEIDA, R. T. ; ROSA, G. G. ; SIMOES, S. N. ; LIMA, F. O. ; Oliveira, E.",
+        "evento": "II Jornada de Produção Científica em Educação Profissional e Tecnológica",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Análise de Aplicabilidade de uma Formulação de Programação Linear Mista para Otimização da Transparência de Redes Ópticas",
+        "ano": 2007,
+        "autores": "FERNANDES, G. C. ; ALMEIDA, R. T. R. ; ROSA, G. G. ; LIMA, F. O.",
+        "evento": "II Jornada de Produção Científica em Educação Profissional e Tecnológica",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Hybrid approaches for the design of mesh and hierarchical ring optical networks",
+        "ano": 2006,
+        "autores": "LIMA, M. ; LIMA, F. O. ; OLIVEIRA, E. S. ; ALMEIDA, R. T. R. ; SEGATTO, M. E. V.",
+        "evento": "SPIE06 - Photonics Europe 2006",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Otimização da Comutação Eletrônica em Redes Ópticas com Roteamento de Tráfego Orientado a Circuitos Lógicos",
+        "ano": 2006,
+        "autores": "ALMEIDA, R. T. R.; SEGATTO, M. E. V. ; OLIVEIRA, E. S. ; FERNANDES, G. C.",
+        "evento": "5th International Information and Telecommunication Technologies Symposium",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Changing Paradigms on Virtual Topology and Traffic Routing Optimization",
+        "ano": 2005,
+        "autores": "ALMEIDA, R. T. R.; SEGATTO, M. E. V. ; CALMON, L. C. ; OLIVEIRA, E. S.",
+        "evento": "5th Conference on Telecommunications",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "A Hybrid-Combined Algorithm Approach for the Design of Topologies and Flow Congestion Minimization of Optical Networks",
+        "ano": 2005,
+        "autores": "BUENO, L. C. ; SEGATTO, M. E. V. ; OLIVEIRA, E. S. ; ALMEIDA, R. T. R.",
+        "evento": "5th Conference on Telecommunications",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "The Design of Hierarchical Self-Healing Rings Networks",
+        "ano": 2005,
+        "autores": "MAIOLI, C. ; BOTELHO, T. ; SEGATTO, M. E. V. ; RIBEIRO, M. R. N. ; OLIVEIRA, E. S. ; BUENO, L. C. ; ALMEIDA, R. T. R.",
+        "evento": "5th Conference on Telecommunications",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Reformulando o Problema de Projeto de Anéis em Redes Ópticas. In: Encontro Regional de Matemática Aplicada e Computacional",
+        "ano": 2005,
+        "autores": "LIMA, F. O. ; Lima, M. O. ; ALMEIDA, R. T. R. ; SEGATTO, M. E. V.",
+        "evento": "ERMAC",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Anéis Lógicos Disjuntos para Projeto de Topologias Virtuais de Redes Ópticas Tolerantes a Falhas",
+        "ano": 2004,
+        "autores": "BUENO, L. C. ; SEGATTO, M. E. V. ; ALMEIDA, R. T. R. ; OLIVEIRA, E. S.",
+        "evento": "MOMAG 2004: 11o Simpósio Brasileiro de Microondas e Optoelertônica e 6o Congresso Brasileiro de Eletromagnetismo",
+        "cidade": "",
+        "paginas": "22-27",
+        "isbn": ""
+      },
+      {
+        "titulo": "Estratégias com Algoritmos Híbridos para Projeto de Redes Ópticas",
+        "ano": 2004,
+        "autores": "BUENO, L. C. ; SEGATTO, M. E. V. ; ALMEIDA, R. T. R. ; LIMA, M. ; OLIVEIRA, E. S.",
+        "evento": "XXXVI Simpósio Brasileiro de Pesquisa Operacional",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uma Heurística para o Projeto de Topologias Virtuais de Redes Ópticas Tolerantes a Falhas",
+        "ano": 2004,
+        "autores": "BUENO, L. C. ; OLIVEIRA, E. S. ; ALMEIDA, R. T. R. ; SEGATTO, M. E. V.",
+        "evento": "SBrT 2004: XXI Simpósio Brasileiro de Telecomunicações",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Addressing the Electronic Bottleneck to Virtual Topology Design of Optical Networks",
+        "ano": 2003,
+        "autores": "ALMEIDA, R. T. R.; SEGATTO, M. E. V. ; OLIVEIRA, E. S. ; POTRATZ, K. ; BUENO, L. C. ; CALMON, L. C.",
+        "evento": "IMOC2003- International Microwave and Optoelectronics Conference",
+        "cidade": "",
+        "paginas": "925-930",
+        "isbn": ""
+      },
+      {
+        "titulo": "Limites em Amplificadores Raman com Fibras Compensadoras de Dispersão",
+        "ano": 2003,
+        "autores": "NEVES, S. P. ; FREITAS, M. ; ALMEIDA, R. T. R. ; CALMON, L. C.",
+        "evento": "XX Simpósio Brasileiro de Telecomunicações",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Raman Amplifier Performance of Dispersion Compensation Fibers",
+        "ano": 2003,
+        "autores": "NEVES, S. P. ; FREITAS, M. ; ALMEIDA, R. T. R. ; CALMON, L. C.",
+        "evento": "International Microwave and Optoelectronics Conference",
+        "cidade": "",
+        "paginas": "553-558",
+        "isbn": ""
+      },
+      {
+        "titulo": "Virtual Topology Design of Multiservice Optical Networks",
+        "ano": 2002,
+        "autores": "ALMEIDA, R. T. R.; CALMON, L. C.",
+        "evento": "IEEE International Telecommunications Symposium (ITS2002)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Projeto de Topologia Virtual de Redes Opticas com Restricoes Diferenciadas por Classe de Servico",
+        "ano": 2002,
+        "autores": "ALMEIDA, R. T. R.; CALMON, L. C.",
+        "evento": "X Simpósio Brasileiro de Microondas e Optoeletrônica (SBMO 2002)",
+        "cidade": "",
+        "paginas": "620-623",
+        "isbn": ""
+      },
+      {
+        "titulo": "FWM versus XPM in WDM Systems Using Low Dispersion Fibers",
+        "ano": 2002,
+        "autores": "FREITAS, M. ; CALMON, L. C. ; ALMEIDA, R. T. R.",
+        "evento": "IEEE International Telecommunications Symposium (ITS2002)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Post-Detection Filter Bandwidth Optimization in Long-Haul Non-linear Optical Fiber Systems",
+        "ano": 2001,
+        "autores": "ALMEIDA, R. T. R.; CALMON, L. C. ; FREITAS, M.",
+        "evento": "2001 SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference",
+        "cidade": "",
+        "paginas": "166-169",
+        "isbn": ""
+      },
+      {
+        "titulo": "Mistura de Quatro Ondas em Sistemas WDM Utilizando Fibras DS",
+        "ano": 2001,
+        "autores": "FREITAS, M. ; CALMON, L. C. ; ALMEIDA, R. T. R.",
+        "evento": "XIX SBrT Simpósio Brasileiro de Telecomunicações",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Limites de Aplicação de Fibras Compensadoras de Dispersão em Sistemas Ópticos NRZ de Longo Alcance a 10 Gb/s",
+        "ano": 2000,
+        "autores": "ALMEIDA, R. T. R.; FREITAS, M. ; CALMON, L. C.",
+        "evento": "XVIII Simpósio Brasileiro de Telecomunicações",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Influência do Número de Canais e Espaçamento entre Canais na Atuação da Modulação Cruzada de Fase em Sistemas WDM",
+        "ano": 2000,
+        "autores": "FREITAS, M. ; ALMEIDA, R. T. R. ; CALMON, L. C.",
+        "evento": "XVIII Simpósio Brasileiro de Telecomunicações",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "SRS and XPM in 32 Channel Multiamplified WDM Optical Systems with DS Fibers at 10 GB/s",
+        "ano": 2000,
+        "autores": "NEVES, S. P. ; ALMEIDA, R. T. R. ; FREITAS, M. ; CALMON, L. C.",
+        "evento": "XVIII Simpósio Brasileiro de Telecomunicações",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Análise da Interferência entre Canais Causada pelo Efeito de Modulação Cruzada de Fase em Sistemas WDM",
+        "ano": 1999,
+        "autores": "FREITAS, M. ; ALMEIDA, R. T. R. ; CALMON, L. C.",
+        "evento": "XVII Simpósio Brasileiro de Telecomunicações",
+        "cidade": "",
+        "paginas": "639-642",
+        "isbn": ""
+      },
+      {
+        "titulo": "SRS e XPM em Sistemas Ópticos Multiamplificados com Fibras DS em 10 Gb/s",
+        "ano": 1999,
+        "autores": "NEVES, S. P. ; ALMEIDA, R. T. R. ; FREITAS, M. ; CALMON, L. C.",
+        "evento": "XVII Simpósio Brasileiro de Telecomunicações",
+        "cidade": "",
+        "paginas": "635-638",
+        "isbn": ""
+      },
+      {
+        "titulo": "Modulational Instability in Multiamplified Optical Systems with Dispersion Compensation",
+        "ano": 1999,
+        "autores": "ALMEIDA, R. T. R.; FREITAS, M. ; RIBEIRO, M. R. N. ; CALMON, L. C.",
+        "evento": "International Microwave and Optoelectronics Congress 1999",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "SRS and XPM in Multiamplified Optical Systems with DS fibres in 10 Gb/s",
+        "ano": 1999,
+        "autores": "NEVES, S. P. ; ALMEIDA, R. T. R. ; FREITAS, M. ; CALMON, L. C.",
+        "evento": "International Microwave and Optoelectronic Congress 1999",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Análise Numérica de Sistemas Ópticos Não Lineares com Reposta Não Linear em Atraso",
+        "ano": 1998,
+        "autores": "ALMEIDA, R. T. R.; FREITAS, M. ; RIBEIRO, M. R. N. ; CALMON, L. C.",
+        "evento": "III Congresso Brasileiro de Eletromagnetismo",
+        "cidade": "",
+        "paginas": "262-265",
+        "isbn": ""
+      },
+      {
+        "titulo": "Análise da Depleção causada por SRS em Sistemas WDM 2x2,5Gb/s com Fibra DS",
+        "ano": 1998,
+        "autores": "NEVES, S. P. ; ALMEIDA, R. T. R. ; FREITAS, M. ; RIBEIRO, M. R. N. ; CALMON, L. C.",
+        "evento": "Simpósio Brasileiro de Microondas e Optoeletrônica 1998",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Amplifier Spacing Assessment for Enhanced Power Soliton Transmission over 10Mm in Standard and DS fiber",
+        "ano": 1998,
+        "autores": "ALMEIDA, R. T. R.; FREITAS, M. ; CALMON, L. C. ; RIBEIRO, M. R. N.",
+        "evento": "IEEE International Conference 1998 and XVI Brazilian Telecommunications Symposium",
+        "cidade": "",
+        "paginas": "611-614",
+        "isbn": ""
+      },
+      {
+        "titulo": "Limits on Bit Rate Capacity Improvement Induced by SPM in Installed Standard Fiber Links at 1550 nm",
+        "ano": 1998,
+        "autores": "FREITAS, M. ; ALMEIDA, R. T. R. ; RIBEIRO, M. R. N. ; CALMON, L. C.",
+        "evento": "IEEE International Conference 1998 and XVI Brazilian Telecommunications Symposium",
+        "cidade": "",
+        "paginas": "606-610",
+        "isbn": ""
+      },
+      {
+        "titulo": "Instabilidade de Modulação em Sistemas Ópticos Multiamplificados: Fundamentos e Projeto de Sistemas",
+        "ano": 1998,
+        "autores": "ALMEIDA, R. T. R.; FREITAS, M. ; RIBEIRO, M. R. N. ; CALMON, L. C.",
+        "evento": "VIII Semana de Optoeletrônica Internacional do Inatel",
+        "cidade": "",
+        "paginas": "69-75",
+        "isbn": ""
+      },
+      {
+        "titulo": "Análise da Depleção causada por SRS em Sistemas WDM (2 e 3x2.5 Gb/s) usando Fibras DS",
+        "ano": 1998,
+        "autores": "NEVES, S. P. ; ALMEIDA, R. T. R. ; FREITAS, M. ; RIBEIRO, M. R. N. ; CALMON, L. C.",
+        "evento": "VIII Semana de Optoeletrônica Internacional do Inatel",
+        "cidade": "",
+        "paginas": "76-80",
+        "isbn": ""
+      },
+      {
+        "titulo": "Análise da Formação de Solitons de 1ª Ordem Derivados de Pulsos Secante-Hiperbólicos, Gaussianos e Super-Gaussianos",
+        "ano": 1997,
+        "autores": "ALMEIDA, R. T. R.; FREITAS, M. ; RIBEIRO, M. R. N. ; CALMON, L. C.",
+        "evento": "XV Simpósio Brasileiro de Telecomunicações",
+        "cidade": "",
+        "paginas": "97-100",
+        "isbn": ""
+      },
+      {
+        "titulo": "Análise do produto BL em Sistemas Ópticos Dispersivos e Não Lineares",
+        "ano": 1997,
+        "autores": "FREITAS, M. ; ALMEIDA, R. T. R. ; RIBEIRO, M. R. N. ; CALMON, L. C.",
+        "evento": "XV Simpósio Brasileiro de Telecomunicações",
+        "cidade": "",
+        "paginas": "93-96",
+        "isbn": ""
+      },
+      {
+        "titulo": "Softwares Educacionais para Eletromagnetismo",
+        "ano": 1996,
+        "autores": "SEGATTO, M. E. V. ; LIMA, W. B. ; ALMEIDA, R. T. R. ; NEVES JÚNIOR, P. T. ; CALMON, L. C.",
+        "evento": "I Congresso Brasileiro de Eletromagnetismo",
+        "cidade": "",
+        "paginas": "114-117",
+        "isbn": ""
+      },
+      {
+        "titulo": "Aprendendo Eletromagnetismo com o Mathematica",
+        "ano": 1996,
+        "autores": "SEGATTO, M. E. V. ; ALMEIDA, R. T. R. ; LIMA, W. B. ; NEVES JÚNIOR, P. T. ; CALMON, L. C.",
+        "evento": "XIV Simpósio Brasileiro de Telecomunicações",
+        "cidade": "",
+        "paginas": "612-618",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [],
+    "resumos_congressos": [
+      {
+        "titulo": "Uso de Técnicas de Computação de Alto Desempenho na construção de um Ambiente Híbrido de Emulação e Simulação Paralela para Redes Ópticas WDM",
+        "ano": 2012,
+        "autores": "COUTINHO, B. C. ; SEGATTO, M. E. V. ; ALMEIDA, R. T. R.",
+        "evento": "XXXII Congresso da Sociedade Brasileira de Computação, 2012, Curitiba. Anais do XXXII Congresso da Sociedade Brasileira de Computação",
+        "cidade": ""
+      },
+      {
+        "titulo": "Avaliação de Área de Cobertura de Sinal Eletromagnético de Dispositivos de Comunicação de Dados Sem Fio Instalados em Medidores de Energia Elétrica",
+        "ano": 2010,
+        "autores": "ALMEIDA, R. T. R.; BARBOSA, H. G. ; LIMA, E. M. ; ORNELLAS, T. S. ; POZZI, D. P. ; Cortes, R. C.",
+        "evento": "XIX Seminário Nacional de Distribuição de Energia Elétrica, 2010, São Paulo. Anais do XIX Seminário Nacional de Distribuição de Energia Elétrica",
+        "cidade": ""
+      },
+      {
+        "titulo": "Sintonia de um Algoritmo Genético Aplicado à Otimização de Topologias Lógicas de Redes Ópticas",
+        "ano": 2009,
+        "autores": "FERNANDES, G. C. ; ALMEIDA, R. T. R.",
+        "evento": "XLI Simpósio Brasileiro de Pesquisa Operacional, 2009, Porto Seguro. Anais do XLI Simpósio Brasileiro de Pesquisa Operacional",
+        "cidade": ""
+      },
+      {
+        "titulo": "On Solving HSHR Networks",
+        "ano": 2007,
+        "autores": "SILVA, M. M. O. ; RABELLO, F. ; GARCIA, A. S. ; PAIVA, M. ; LAVAGNOLI, G. L. S. ; OLIVEIRA, E. S. ; SEGATTO, M. E. V. ; ALMEIDA, R. T. R. ; FRANCES, C. R. L. ; COSTA, J. W.",
+        "evento": "6th Conference on Telecommunications, 2007, Peniche, Portugal. Procedding of the 6th Conference on Telecommunications",
+        "cidade": ""
+      },
+      {
+        "titulo": "Um Estudo Empírico da Eficiência de Heurísticas na Otimização do Congestionamento em Redes Ópticas",
+        "ano": 2007,
+        "autores": "LIMA, F. O. ; OLIVEIRA, E. S. ; SEGATTO, M. E. V. ; ALMEIDA, R. T. R. ; Boldt, F. A.",
+        "evento": "XXXIX Congresso de Pesquisa Operacional (SOBRAPO), 2007, Fortaleza. Anais do XXXIX Congresso de Pesquisa Operacional",
+        "cidade": ""
+      },
+      {
+        "titulo": "O Problema de Projeto de Anéis em Redes Ópticas via Algoritmos para TSP",
+        "ano": 2006,
+        "autores": "LIMA, F. O. ; LIMA, M. ; OLIVEIRA, E. S. ; SEGATTO, M. E. V. ; ALMEIDA, R. T. R.",
+        "evento": "XXXVIII Simpósio Brasileiro de Pesquisa Operacional, 2006, Gioânia. Anais do XXXVIII Simpósio Brasileiro de Pesquisa Operacional",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [
+      {
+        "titulo": "SISTEMA ELETRÔNICO DE AQUISIÇÃO DE DADOS E CONTROLE DE MEDIDORES PARA AUTOMATIZAÇÃO DA LEITURA E EMISSÃO DE FATURA USANDO COMUNICAÇÃO POR RÁDIOFREQUÊNCIA",
+        "ano": 2010,
+        "autores": "ALMEIDA, R. T. R.; Cortes, R. C.",
+        "tipo": "Produto tecnológico",
+        "finalidade": ""
+      }
+    ],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [
+        {
+          "titulo": "Um modelo eficiente para projeto completo de redes ópticas",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Fabio de Oliveira Lima",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Algoritmos de Otimização Dinâmica Aplicados ao Projeto de Redes Ópticas",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Francisco de Assis Boldt",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Universidade Federal do Espírito Santo",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "Estudo Comparativo de Heurísticas para Projeto de Topologias de Redes Ópticas",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Diego Luchi",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Centro Federal de Educação Tecnológica do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Projeto de Topologia Virtual Usando Métodos Heurísticos",
+          "ano_inicio": 2002,
+          "ano_conclusao": 2002,
+          "orientando": "Warisson Guimarães Alves",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Espírito Santo",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [
+        {
+          "titulo": "Desenvolvimento de Sistema de Ajuste de Potência de Transceptores de Radiofrequëncia em uma Rede de Telemetria sem Fio",
+          "ano_inicio": 2011,
+          "ano_conclusao": 2011,
+          "orientando": "Wilherme Borchardt Rodrigues",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Implementação de cluster de computadores para processamento paralelo de máquinas virtuais",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Gustavo Zacché Aguiar de Souza",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Análise da aplicabilidade de uma formulação de programação linear mista para projeto físico e lógico de redes ópticas",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Lift Lorena Gramelik Ferraz",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Estudo Comparativo de Métodos de Busca para Projeto de Topologias Lógicas de Redes de Transporte de Dados com Roteamento de Tráfego Orientado a Circuitos Lógicos",
+          "ano_inicio": 2008,
+          "ano_conclusao": 2008,
+          "orientando": "Gustavo Coutinho Fernandes",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Algoritmos Genéticos aplicados ao Projeto de Redes de Transporte de Dados com Roteamento de Tráfego Orientado a Circuitos Lógicos",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Gustavo Coutinho Fernandes",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Método do Recozimento Simulado aplicado ao Projeto de Redes de Transporte de Dados com Roteamento de Tráfego Orientado a Circuitos Lógicos",
+          "ano_inicio": 2007,
+          "ano_conclusao": 2007,
+          "orientando": "Silvio César Vieira Barreto",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, Fundação de Apoio à Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Análise de Aplicabilidade de uma Formulação de Programação Linear Mista para Otimização da Transparência de Redes Ópticas",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Gustavo Coutinho Fernandes",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Projeto de Topologias Lógicas e Roteamento de Tráfego em Redes Ópticas",
+          "ano_inicio": 2006,
+          "ano_conclusao": 2006,
+          "orientando": "Diego Luchi",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+          "curso": ""
+        }
+      ],
+      "outros": [
+        {
+          "titulo": "Sistema de monitoramento de consumo de energia elétrica utilizando comunicação sem fio",
+          "ano_inicio": 2011,
+          "ano_conclusao": 2011,
+          "orientando": "João Pedro Costa Albuquerque",
+          "tipo_trabalho": "Trabalho",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Avaliação da eficiência de transmissão de dados de módulo de comunicação sem fio instalado em medidores de energia elétrica",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "João Pedro Costa Albuquerque",
+          "tipo_trabalho": "Trabalho",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Desenvolvimento de Ferramental para Instalação e Manutenção de Sistema de Aquisição Remota de Dados de Consumo de Medidores de Energia Elétrica",
+          "ano_inicio": 2010,
+          "ano_conclusao": 2010,
+          "orientando": "Wilherme Borchardt Rodrigues",
+          "tipo_trabalho": "Trabalho",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Adaptação de medidores de energia para transmissão de dados sem fio",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Hartus Gonçalves Barbosa",
+          "tipo_trabalho": "Trabalho",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Aplicativos em Java para Dispositivos de Comunicação Móvel com Interface Bluetooth",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Tiago da Silva Comério",
+          "tipo_trabalho": "",
+          "instituicao": "em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Desenvolvimento de circuito eletrônico para comunicação sem fio entre um medidor de energia elétrica e um computador móvel",
+          "ano_inicio": 2009,
+          "ano_conclusao": 2009,
+          "orientando": "Eliã de Matos Lima",
+          "tipo_trabalho": "Trabalho",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+          "curso": ""
+        }
+      ]
+    }
+  },
+  "eventos": {
+    "participacoes": [],
+    "organizacoes": [
+      {
+        "autores": "BASTOS, C. J. A. ; MARTINS, J. ; ALMEIDA, R. T. R.",
+        "evento": "I Workshop de Simulação em Redes Ópticas",
+        "ano": 2010,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ALMEIDA, R. T. R.; KULITZ, H. R.",
+        "evento": "II Jornada de Iniciação em Desenvolvimento Tecnológico e Inovação do Ifes",
+        "ano": 2009,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ALMEIDA, R. T. R.; KULITZ, H. R.",
+        "evento": "IV Jornada de Iniciação Científica do Ifes",
+        "ano": 2009,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ALMEIDA, R. T. R.; Santos, R. P. ; ZDRADEK, C. P. ; MINASSA, E. M. C.",
+        "evento": "III Jornada de Iniciação Científica do Cefetes",
+        "ano": 2008,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "ALMEIDA, R. T. R.; Santos, R. P. ; ZDRADEK, C. P. ; MINASSA, E. M. C.",
+        "evento": "I Jornada de Iniciação em Desenvolvimento Tecnológico e Inovação do Cefetes",
+        "ano": 2008,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      },
+      {
+        "autores": "Santos, R. P. ; ALMEIDA, R. T. R. ; SILVA, A. J. A. ; PENTEADO, K. C. C. ; DIAS, M. C.",
+        "evento": "I Simpósio Interno de Pesquisadores do Cefetes",
+        "ano": 2007,
+        "natureza": "Outro",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [
+      {
+        "descricao": "SEGATTO, M. E. V.; SILVA, J. A. L.; ALMEIDA, R. T. R.. Participação em banca de Bernardo Lopes Valentim. Uso de Tons Pilotos para Identificação e Equalização de Canal, Orientador: Marcelo Eduardo Vieira Segatto. 2010. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Espírito Santo.",
+        "ano": 2010,
+        "tipo": "Mestrado",
+        "aluno": "Bernardo Lopes Valentim",
+        "membros_banca": [
+          "SEGATTO, M. E. V.",
+          "SILVA, J. A. L.",
+          "ALMEIDA, R. T. R."
+        ],
+        "titulo_trabalho": "Uso de Tons Pilotos para Identificação e Equalização de Canal, Orientador: Marcelo Eduardo Vieira Segatto",
+        "curso": "Dissertação (Mestrado em Engenharia Elétrica)",
+        "universidade": "Universidade Federal do Espírito Santo"
+      },
+      {
+        "descricao": "SEGATTO, M. E. V.; FRANCES, C. R. L.; ALMEIDA, R. T. R.; OLIVEIRA, E. S.. Participação em banca de Luiz Carlos Bueno Pereira. Estratégias com Algoritmos Híbridos para Projeto da Topologia Virtual em Redes Ópticas: Uma Abordagem via Anéis Hierárquicos. 2006. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Espírito Santo.",
+        "ano": 2006,
+        "tipo": "Mestrado",
+        "aluno": "Luiz Carlos Bueno Pereira",
+        "membros_banca": [
+          "SEGATTO, M. E. V.",
+          "FRANCES, C. R. L.",
+          "ALMEIDA, R. T. R.",
+          "OLIVEIRA, E. S."
+        ],
+        "titulo_trabalho": "Estratégias com Algoritmos Híbridos para Projeto da Topologia Virtual em Redes Ópticas: Uma Abordagem via Anéis Hierárquicos",
+        "curso": "Dissertação (Mestrado em Engenharia Elétrica)",
+        "universidade": "Universidade Federal do Espírito Santo"
+      }
+    ],
+    "doutorado": [
+      {
+        "descricao": "OLIVEIRA, E. S.; GARCIA, A. S.; RIBEIRO, M. R. N.; SEGATTO, M. E. V.; PIRES, J.; ALMEIDA, R. T. R.. Participação em banca de Leandro Colombi Resendo. Contribuições para o Projeto de Grooming de Tráfego sobre Redes Ópticas WDM. 2008. Tese (Doutorado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal do Espírito Santo.",
+        "ano": 2008,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Leandro Colombi Resendo",
+        "membros_banca": [
+          "OLIVEIRA, E. S.",
+          "GARCIA, A. S.",
+          "RIBEIRO, M. R. N.",
+          "SEGATTO, M. E. V.",
+          "PIRES, J.",
+          "ALMEIDA, R. T. R."
+        ],
+        "titulo_trabalho": "Contribuições para o Projeto de Grooming de Tráfego sobre Redes Ópticas WDM",
+        "curso": "Tese (Doutorado em Programa de Pós-Graduação em Engenharia Elétrica)",
+        "universidade": "Universidade Federal do Espírito Santo"
+      },
+      {
+        "descricao": "RIBEIRO, M. R. N.; SEGATTO, M. E. V.; Giraldi, M. T. M. R.; ALMEIDA, R. T. R.. Participação em banca de Shirley Peroni Neves. Uma contribuição ao Modelamento Analítico em Amplificadores Raman. 2007. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Espírito Santo.",
+        "ano": 2007,
+        "tipo": "Tese de Doutorado",
+        "aluno": "Shirley Peroni Neves",
+        "membros_banca": [
+          "RIBEIRO, M. R. N.",
+          "SEGATTO, M. E. V.",
+          "Giraldi, M. T. M. R.",
+          "ALMEIDA, R. T. R."
+        ],
+        "titulo_trabalho": "Uma contribuição ao Modelamento Analítico em Amplificadores Raman",
+        "curso": "Tese (Doutorado em Engenharia Elétrica)",
+        "universidade": "Universidade Federal do Espírito Santo"
+      }
+    ],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [
+      {
+        "descricao": "RIBEIRO, M. R. N.; ALMEIDA, R. T. R.; Oliveira, E.. Participação em banca de Leandro Colombi Resendo. Contribuições para o Projeto de Grooming de Tráfego sobre Redes Ópticas WDM. 2007. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal do Espírito Santo.",
+        "ano": 2007,
+        "tipo": "Qualificação de Mestrado",
+        "aluno": "Leandro Colombi Resendo",
+        "membros_banca": [
+          "RIBEIRO, M. R. N.",
+          "ALMEIDA, R. T. R.",
+          "Oliveira, E."
+        ],
+        "titulo_trabalho": "Contribuições para o Projeto de Grooming de Tráfego sobre Redes Ópticas WDM",
+        "curso": "Exame de qualificação (Doutorando em Engenharia Elétrica)",
+        "universidade": "Universidade Federal do Espírito Santo"
+      }
+    ],
+    "graduacao": [],
+    "outras": []
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 3,
+    "total_livros": 0,
+    "total_capitulos": 0,
+    "total_trabalhos_congressos": 42,
+    "total_projetos_pesquisa": 3,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 10,
+    "total_orientacoes_andamento": 0
+  }
+}
