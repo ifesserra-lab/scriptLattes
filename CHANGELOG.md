@@ -17,6 +17,7 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
   - Adicionado `pyproject.toml` para empacotamento
   - Lógica principal movida para `scriptLattes.run`
   - Facilita importação e uso em outros projetos
+- **Documentação**: Adicionado exemplos claros de uso da CLI após instalação via pip
 
 ### 🔧 Corrigido
 - **Bug crítico**: Contaminação de dados entre pesquisadores diferentes

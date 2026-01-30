@@ -52,6 +52,16 @@ cd scriptLattes
 pip install .
 ```
 
+Uma vez instalado, você pode executar o `scriptLattes` diretamente do terminal de qualquer diretório:
+
+```bash
+# Sintaxe básica
+scriptLattes <arquivo_de_configuracao>
+
+# Exemplo
+scriptLattes exemplo/teste-01.config
+```
+
 ### Instalação para Desenvolvimento
 Para contribuir com o projeto ou executar o script isoladamente:
 
