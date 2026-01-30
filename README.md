@@ -160,6 +160,54 @@ grupo.compilarListasDeItems()
 grupo.gerarArquivosJSONIndividuais()
 ```
 
+### Exemplo Didático (Passo a Passo)
+
+Se você está começando um projeto do zero e quer usar o `scriptLattes`:
+
+**1. Instale a biblioteca:**
+```bash
+pip install git+https://github.com/jpmenachalco/scriptLattes.git
+```
+
+**2. Crie um arquivo de configuração (ex: `meu_projeto.config`):**
+Crie um arquivo de texto com o seguinte conteúdo mínimo:
+
+```properties
+# Nome do arquivo: meu_projeto.config
+global-nome_do_grupo = Meu Grupo de Pesquisa
+global-arquivo_de_entrada = lista_lattes.txt
+global-diretorio_de_saida = ./resultados
+global-email_do_admin = admin@email.com
+global-idioma = PT
+global-itens_desde_o_ano = 2018
+global-itens_ate_o_ano = 2024
+global-diretorio_de_saida_json = ./resultados/json
+```
+
+**3. Crie a lista de IDs Lattes (ex: `lista_lattes.txt`):**
+```text
+# Coloque um ID por linha
+1234567890123456
+9876543210987654
+```
+
+**4. Crie seu script Python (ex: `analise.py`):**
+```python
+from scriptLattes.grupo import Grupo
+
+print("Iniciando análise...")
+grupo = Grupo("meu_projeto.config")
+grupo.carregarDadosCVLattes()
+grupo.compilarListasDeItems()
+grupo.gerarArquivosJSONIndividuais()
+print("Concluído! Verifique a pasta ./resultados")
+```
+
+**5. Execute:**
+```bash
+python analise.py
+```
+
 ## Estrutura de Saída
 
 O scriptLattes gera vários tipos de saída para análise dos dados extraídos:
