@@ -1,0 +1,35 @@
+name: Backlog Sync
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Once a day at midnight
+  issues:
+    types: [opened, edited, closed, reopened]
+  workflow_dispatch: # Manual trigger
+
+permissions:
+  contents: write
+  issues: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          
+      - name: Run Sync Script
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/sync_backlog.py
+        
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add docs/backlog.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: auto-sync backlog from github issues" && git push)

@@ -1,0 +1,726 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "8365543719828195",
+    "nome_completo": "Rafael Emerick Zape de Oliveira",
+    "nome_citacoes": "De OLIVEIRA, R. E. Z.;DE OLIVEIRA, RAFAEL EMERICK;R.E. Oliveira;OLIVEIRA, R.E.;R.E.Z. Oliveira;RAFAEL EMERICK Z. DE OLIVEIRA;DE OLIVEIRA, RAFAEL EMERICK Z.",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, Instituto Federal do Espírito Santo - Campus Serra. Rodovia ES-010 Manguinhos 29173087 - Serra, ES - Brasil Telefone: (27) 33489200",
+    "atualizacao_cv": "25/06/2025",
+    "url": "http://lattes.cnpq.br/8365543719828195",
+    "texto_resumo": "Mestre em Engenharia Elétrica, ênfase em Telecomunicações, e Engenheiro de Computação pela Universidade Federal do Espírito Santo. Professor de Sistemas de Computação na Coordenadoria de Automação do Instituto Federal do Espírito Santo - Campus Serra. Tem experiência na área de redes e sistemas de computação, principalmente em metroethernet, gerência de redes, sistemas Linux, virtualização de sistemas, containers e redes definidas por software. Possui interesse em modelagem de processos, em melhores práticas aplicadas à automatização de operação de redes e sistemas computacionais, IoT e tecnologias de sistemas ciberfísicos e indústria 4.0 (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Mestrado em Mestrado em Engenharia Elétrica",
+      "nome_instituicao": "Universidade Federal do Espírito Santo, UFES, Brasil",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2014",
+      "descricao": "Título: KeyFlow: Uma Proposta para o Provimento de Conectividade Fabric no Núcleo de Redes Definidas por Software O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2015. Orientador: Magnos Martinello. Coorientador: Moisés Renato Nunes Ribeiro. Palavras-chave: Redes Definidas por Software; Redes sobrepostas; OpenFlow; Overlay; Stateless. Grande área: Engenharias Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Teleinformática. Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Arquitetura de Sistemas de Computação. Setores de atividade: Informação e comunicação; Telecomunicações; Atividades dos serviços de tecnologia da informação."
+    },
+    {
+      "tipo": "Graduação em Engenharia de Computação",
+      "nome_instituicao": "Universidade Federal do Espírito Santo, UFES, Brasil",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2009",
+      "descricao": "Título: Servidores Virtuais Redundantes com Suporte à Migração ao Vivo. Orientador: Magnos Martinello."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Rede Nacional de Ensino e Pesquisa, RNP, Brasil.",
+      "instituicao_nome": "Rede Nacional de Ensino e Pesquisa",
+      "instituicao_sigla": "RNP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2009 - 2016",
+      "ano_inicio": "2009",
+      "ano_fim": "2016",
+      "vinculo": "Colaborador",
+      "enquadramento": "Coordenador Técnico - PoP-ES/UFES",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino e Pesquisa, RNP, Brasil."
+      ]
+    },
+    {
+      "instituicao": "Rede Nacional de Ensino e Pesquisa, RNP, Brasil.",
+      "instituicao_nome": "Rede Nacional de Ensino e Pesquisa",
+      "instituicao_sigla": "RNP",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - 2009",
+      "ano_inicio": "2007",
+      "ano_fim": "2009",
+      "vinculo": "Outro",
+      "enquadramento": "Estagiário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino e Pesquisa, RNP, Brasil."
+      ]
+    },
+    {
+      "instituicao": "Rede Nacional de Ensino e Pesquisa, RNP, Brasil",
+      "instituicao_nome": "Rede Nacional de Ensino e Pesquisa",
+      "instituicao_sigla": "RNP",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2009 - Atual",
+      "ano_inicio": "2009",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino e Pesquisa, RNP, Brasil."
+      ]
+    },
+    {
+      "instituicao": "Rede Nacional de Ensino e Pesquisa, RNP, Brasil",
+      "instituicao_nome": "Rede Nacional de Ensino e Pesquisa",
+      "instituicao_sigla": "RNP",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2007 - 07/2009",
+      "ano_inicio": "2007",
+      "ano_fim": "2009",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Ensino e Pesquisa, RNP, Brasil."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Espírito Santo, UFES, Brasil.",
+      "instituicao_nome": "Universidade Federal do Espírito Santo",
+      "instituicao_sigla": "UFES",
+      "instituicao_pais": "Brasil",
+      "periodo": "2017 - Atual",
+      "ano_inicio": "2017",
+      "ano_fim": "Atual",
+      "vinculo": "Colaborador",
+      "enquadramento": "Coordenador Técnico - Projeto PoP-ES/UFES",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Espírito Santo, UFES, Brasil.",
+      "instituicao_nome": "Universidade Federal do Espírito Santo",
+      "instituicao_sigla": "UFES",
+      "instituicao_pais": "Brasil",
+      "periodo": "2007 - 2008",
+      "ano_inicio": "2007",
+      "ano_fim": "2008",
+      "vinculo": "Outros",
+      "enquadramento": "Diretor de Ensino - Programa Extensão - NCD",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Espírito Santo, UFES, Brasil.",
+      "instituicao_nome": "Universidade Federal do Espírito Santo",
+      "instituicao_sigla": "UFES",
+      "instituicao_pais": "Brasil",
+      "periodo": "2005 - 2007",
+      "ano_inicio": "2005",
+      "ano_fim": "2007",
+      "vinculo": "Bolsista",
+      "enquadramento": "Instrutor - Programa de Extensão - NCD",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Espírito Santo, UFES, Brasil",
+      "instituicao_nome": "Universidade Federal do Espírito Santo",
+      "instituicao_sigla": "UFES",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Espírito Santo, UFES, Brasil",
+      "instituicao_nome": "Universidade Federal do Espírito Santo",
+      "instituicao_sigla": "UFES",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2005 - 12/2008",
+      "ano_inicio": "2005",
+      "ano_fim": "2008",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil.",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "2016 - Atual",
+      "ano_inicio": "2016",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professor EBTT",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "08/2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "07/2022 - 12/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "07/2022 - 12/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "01/2020 - 12/2021",
+      "ano_inicio": "2020",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "01/2021 - 06/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "02/2019 - 07/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "08/2018 - 12/2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "02/2018 - 07/2018",
+      "ano_inicio": "2018",
+      "ano_fim": "2018",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "06/2017 - 12/2017",
+      "ano_inicio": "2017",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "10/2016 - 06/2017",
+      "ano_inicio": "2016",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "10/2016 - 06/2017",
+      "ano_inicio": "2016",
+      "ano_fim": "2017",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "Estudo de viabilidade para desenvolvimento de ambiente experimental para desenvolvimento de tecnologias em Indústria 4.0 e Internet",
+      "ano_inicio": "2018",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: É um grande desafio manter uma boa infraestrutura de ensino para sistemas inteligentes em processos na Indústria 4.0. O aprimoramento contínuo de processos, inovações de produtos e avanço do poder computacional, torna extremamente complexo e caro o ensino tecnológico atrelado a produtos em voga no mercado. É fundamental a criação de um ambiente de ensino que extrapolam as barreiras físicas e se conectem a realidade virtual. Este projeto tem por objetivo estudar e desenvolver soluções educacionais replicáveis, e com alta similaridade com os sistemas comerciais, de forma a permitir o ensino tecnológico e desenvolvimento de protótipos e produtos aplicados ao curso de Engenharia de Controle e Automação do IFES e assim ao polo industrial da Serra e demais regiões do Espírito Santo.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rafael Emerick Zape de Oliveira - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Rafael Emerick Zape de Oliveira",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "Implantação e Operação de Meios e Serviços de Redes de Comunicação Avançadas",
+      "ano_inicio": "2016",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: O presente projeto tem como objetivo oferecer um serviço de gerência, operação e manutenção contínua da infra-estrutura de comunicação e dos serviços providos pelo Ponto de Presença do Espírito Santo ? (PoP-ES) da Rede Nacional de Ensino e Pesquisa (RNP) por meio do estudo, avaliação, experimentação e implementação de boas práticas e soluções inovadoras aplicados em ambiente real da rede acadêmica capixaba.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Rafael Emerick Zape de Oliveira - Integrante / Rodolfo da Silva Villaça - Coordenador / Luiz Guilherme Bergamaschi Bueloni - Integrante. Número de produções C, T & A: 1"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Rafael Emerick Zape de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Rodolfo da Silva Villaça",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Luiz Guilherme Bergamaschi Bueloni",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas de Computação",
+      "especialidade": "Arquitetura de Sistemas de Computação",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Arquitetura de Sistemas de Computação."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas de Computação",
+      "especialidade": "Hardware",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Hardware."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas de Computação",
+      "especialidade": "REDES DE COMPUTADORES",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: REDES DE COMPUTADORES."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas de Computação",
+      "especialidade": "Software Básico",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Software Básico."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas de Computação",
+      "especialidade": "Teleinformática",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Teleinformática."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Tackling OpenFlow power hog in core networks with KeyFlow",
+        "ano": 2014,
+        "autores": "SALDAÑA CERCÓS, S. ; MANOLOVA FAGERTUN, A. ; VITOI, R. ; TAFUR MONROY, I. ; RIBEIRO, M.R.N. ; OLIVEIRA, R.E. ; MARTINELLO, M.",
+        "revista": "Electronics Letters",
+        "volume": "50",
+        "numero": "",
+        "paginas": "1847-1849",
+        "issn": "0013-5194",
+        "doi": "http://dx.doi.org/10.1049/el.2014.2346",
+        "qualis": ""
+      },
+      {
+        "titulo": "Keyflow: a prototype for evolving SDN toward core network fabrics",
+        "ano": 2014,
+        "autores": "MARTINELLO, MAGNOS ; RIBEIRO, MOISES ; DE OLIVEIRA, RAFAEL EMERICK ; DE ANGELIS VITOI, ROMULO",
+        "revista": "IEEE Network",
+        "volume": "28",
+        "numero": "",
+        "paginas": "12-19",
+        "issn": "0890-8044",
+        "doi": "http://dx.doi.org/10.1109/mnet.2014.6786608",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "SIRVA-SE: Uma Plataforma como Serviço para Aprendizagem de Controle e Sistemas Realimentados Virtuais",
+        "ano": 2023,
+        "autores": "MARIZ, RICARDO LIMA ; DE OLIVEIRA, RAFAEL EMERICK Z. ; DA SILVA MUNARETO, SAUL ; CAVALIERI, DANIEL CRUZ",
+        "evento": "2023 15th IEEE International Conference on Industry Applications (INDUSCON)",
+        "cidade": "",
+        "paginas": "585",
+        "isbn": ""
+      },
+      {
+        "titulo": "VALIDA - Uma Plataforma Web para Comissionamento de Largura de Banda de Circuitos Virtuais para Enlaces de Alta Disponibilidade",
+        "ano": 2018,
+        "autores": "TEIXEIRA, M. V. T. ; De OLIVEIRA, R. E. Z. ; VENCIONECK, R. D. ; BUELONI, L. G. B. ; VILLACA, R. S.",
+        "evento": "Simpósio Brasileiro de Telecomunicações e Processamento de Sinais",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "KeyFlow: Comutação por Chaves Locais de Fluxos Roteados na Borda via Identificadores Globais",
+        "ano": 2013,
+        "autores": "De OLIVEIRA, R. E. Z.; VITOI, R. ; MARTINELLO, M. ; NUNES, M. R. R.",
+        "evento": "Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos",
+        "cidade": "",
+        "paginas": "921-934",
+        "isbn": ""
+      },
+      {
+        "titulo": "Parâmetros balizadores para experimentos com Comutadores Openﬂow: Avaliação experimental baseada em medições de alta precisão",
+        "ano": 2012,
+        "autores": "De OLIVEIRA, R. E. Z.; PICCOLI FILHO, P. P. ; NUNES, M. R. R. ; MARTINELLO, M.",
+        "evento": "Simpósio Brasileiro de Telecomunicações",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "E. Z.. O Projeto ViaIpê",
+        "ano": 2015,
+        "autores": "De OLIVEIRA, R",
+        "evento": ""
+      },
+      {
+        "titulo": "Navegando na cultura DevOps: serviços em containers com o Docker",
+        "ano": 2015,
+        "autores": "De OLIVEIRA, R. E. Z.; TEIXEIRA, M. V. T. ; Furtado, R. R.",
+        "evento": ""
+      },
+      {
+        "titulo": "ViaIpê: visibilidade de rede de acesso da RNP",
+        "ano": 2015,
+        "autores": "DE OLIVEIRA, RAFAEL EMERICK",
+        "evento": ""
+      },
+      {
+        "titulo": "Projeto de Visualização Integrada do Acesso à Rede Ipê",
+        "ano": 2014,
+        "autores": "DE OLIVEIRA, RAFAEL EMERICK",
+        "evento": ""
+      },
+      {
+        "titulo": "Visualização de Dados Aplicada à Gerência de Enlaces de um PoP",
+        "ano": 2013,
+        "autores": "DE OLIVEIRA, RAFAEL EMERICK",
+        "evento": ""
+      },
+      {
+        "titulo": "Uma Abordagem Orientada a Processos para Gerência de Enlaces",
+        "ano": 2011,
+        "autores": "DE OLIVEIRA, RAFAEL EMERICK",
+        "evento": ""
+      },
+      {
+        "titulo": "Gerência de redes e serviços com o Pandora FMS",
+        "ano": 2007,
+        "autores": "DE OLIVEIRA, RAFAEL EMERICK; Mussi, Salim Suhet",
+        "evento": ""
+      }
+    ],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [
+        {
+          "titulo": "Estudo e prototipação de dispositivo de baixo custo e conectividade de longo alcance para aplicações de sensoriamento em rede",
+          "ano_inicio": 2017,
+          "orientando": "Caio Mario Carletti Vilela Santos",
+          "tipo_trabalho": "Iniciação científica",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        }
+      ],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "ENSAIOS DE DETECÇÃO FACIAL EM DISPOSITIVOS DE BORDA PARA MONITORAMENTO E CONTROLE DE ACESSO EM ESPAÇOS ABERTOS E INTELIGENTES",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Conrado Costa",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "UMA PROPOSTA DE SIMULAÇÃO DE PLANTA INDUSTRIAL COMO SERVIÇO PARA LABORATÓRIO VIRTUAL DE CONTROLE DE PROCESSOS",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Ricardo Lima Mariz",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "AUTOMAÇÃO DO PROCESSO DE BRASSAGEM ESTILO HERMS ATRAVÉS DA PLATAFORMA ROCKWELL AUTOMATION",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Bernardo Vieira de Siqueira Botelho",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "PLATAFORMA DE APRENDIZAGEM DE CONTROLE DE PROCESSOS BASEADA EM TECNOLOGIAS WEB",
+          "ano_inicio": 2021,
+          "ano_conclusao": 2021,
+          "orientando": "Samuel Martins Peres",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Uma proposta de validação ágil de circuitos virtuais baseada em microsserviços",
+          "ano_inicio": 2016,
+          "ano_conclusao": 2016,
+          "orientando": "Mateus de Victa Tanure Teixeira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Avaliação Experimental de uma Infraestrutura Virtualizada para Serviços de Conectividade à Internet de Alta Capacidade e Baixo Custo",
+          "ano_inicio": 2014,
+          "ano_conclusao": 2014,
+          "orientando": "Rômulo Rosa Furtado",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Visualização de Informações aplicada ao Gerenciamento de Redes",
+          "ano_inicio": 2013,
+          "ano_conclusao": 2013,
+          "orientando": "Ygor Kiefer Follador de Jesus",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Ferramenta e análise da qualidade de conexão à Internet.",
+          "ano_inicio": 2012,
+          "ano_conclusao": 2012,
+          "orientando": "Fabricio Julio Corrêa de Almeida",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Visualização de Dados aplicada ao Gerenciamento de Redes",
+          "ano_inicio": 2012,
+          "ano_conclusao": 2012,
+          "orientando": "Breno Wruck Schneider",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Espírito Santo",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos",
+        "apresentacao": null,
+        "ano": 2011,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "MARTINELLO, M. ; NUNES, M. R. R. ; De OLIVEIRA, R. E. Z.",
+        "evento": "XXXIII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos",
+        "ano": 2015,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento"
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [],
+    "outras": []
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 2,
+    "total_livros": 0,
+    "total_capitulos": 0,
+    "total_trabalhos_congressos": 4,
+    "total_projetos_pesquisa": 2,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 1
+  }
+}

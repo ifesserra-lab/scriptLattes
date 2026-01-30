@@ -10,6 +10,13 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo.
   - Parser atualizado para detectar seção "Projetos de desenvolvimento"
   - Export JSON com campo `projetos_desenvolvimento`
   - Estatísticas atualizadas com `total_projetos_desenvolvimento`
+- **Configuração de Saída JSON**: Novo parâmetro `global-diretorio_de_saida_json`
+  - Permite especificar um diretório customizado para os arquivos JSON individuais
+  - Mantém o padrão `json/` dentro do diretório de saída se não for especificado
+- **Refatoração para Biblioteca**: Transformação do código em pacote Python instalável
+  - Adicionado `pyproject.toml` para empacotamento
+  - Lógica principal movida para `scriptLattes.run`
+  - Facilita importação e uso em outros projetos
 
 ### 🔧 Corrigido
 - **Bug crítico**: Contaminação de dados entre pesquisadores diferentes

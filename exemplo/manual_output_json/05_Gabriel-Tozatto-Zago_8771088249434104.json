@@ -1,0 +1,1553 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "8771088249434104",
+    "nome_completo": "Gabriel Tozatto Zago",
+    "nome_citacoes": "ZAGO, G. T.;ZAGO, GABRIEL TOZATTO;TOZATTO, GABRIEL ZAGO;ZAGO, GABRIEL T",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, Instituto Federal do Espírito Santo - Campus Serra. Avenida dos Sabiás, 330 Morada de Laranjeiras 29166630 - Serra, ES - Brasil Telefone: (27) 31829201",
+    "atualizacao_cv": "14/01/2026",
+    "url": "http://lattes.cnpq.br/8771088249434104",
+    "texto_resumo": "Doutor em Engenharia Elétrica pela Universidade Federal do Espírito Santo (2019). Atualmente é professor do Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, atuando principalmente nos seguintes temas: aprendizado profundo, aprendizado de máquina, ciência de dados, sinais biológicos e diabetes mellitus. O doutorado recebeu bolsa do Programa de Doutorado-Sanduíche PDSE da CAPES. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Engenharia Elétrica",
+      "nome_instituicao": "Universidade Federal do Espírito Santo, UFES, Brasil",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2019",
+      "descricao": "com período sanduíche em Telecom & Management SudParis (Orientador: Bernadette Dorizzi). Título: Diabetic Retinopathy Detection Based On Deep Learning O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de obtenção: 2019. Orientador: Rodrigo Varejão Andreão. Coorientador: Evandro Ottoni Teatini Salles. Palavras-chave: aprendizado profundo; Diabetes melitus; Imagens de retina; qualidade de imagem; Tele-oftalmología. Grande área: Engenharias"
+    },
+    {
+      "tipo": "Mestrado em Engenharia Elétrica",
+      "nome_instituicao": "Universidade Federal do Espírito Santo, UFES, Brasil",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2013",
+      "descricao": "Título: Detecção de Hipertrofia de Ventrículo Esquerdo através do Eletrocardiograma O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2013. Orientador: Rodrigo Varejão Andreão. Coorientador: Mário Sarcinelli Filho. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: Eletrocardiografia; Sinais Biológicos. Grande área: Engenharias"
+    },
+    {
+      "tipo": "Graduação em Engenharia Elétrica",
+      "nome_instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2010",
+      "descricao": "Título: Sistema de auxílio ao diagnóstico de Eletrocardiogramas utilizando redes Bayesianas dinâmicas. Orientador: Rodrigo Varejão Andreão."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Universidade Federal do Espírito Santo, UFES, Brasil.",
+      "instituicao_nome": "Universidade Federal do Espírito Santo",
+      "instituicao_sigla": "UFES",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - 2011",
+      "ano_inicio": "2011",
+      "ano_fim": "2011",
+      "vinculo": "Bolsista",
+      "enquadramento": "Estágio de docência",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Banco do Estado do Espírito Santo, BANESTES, Brasil.",
+      "instituicao_nome": "Banco do Estado do Espírito Santo",
+      "instituicao_sigla": "BANESTES",
+      "instituicao_pais": "Brasil",
+      "periodo": "2009 - 2010",
+      "ano_inicio": "2009",
+      "ano_fim": "2010",
+      "vinculo": "Estágio",
+      "enquadramento": "Estagiário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil.",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "2012 - Atual",
+      "ano_inicio": "2012",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": "Professor",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil.",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "2012 - 2012",
+      "ano_inicio": "2012",
+      "ano_fim": "2012",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor Temporário",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil.",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "2008 - 2009",
+      "ano_inicio": "2008",
+      "ano_fim": "2009",
+      "vinculo": "Aluno",
+      "enquadramento": "Bolsista de Iniciação Científica",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil.",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "2007 - 2008",
+      "ano_inicio": "2007",
+      "ano_fim": "2008",
+      "vinculo": "Aluno",
+      "enquadramento": "Bolsista de Iniciação Científica",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "10/2022 - Atual",
+      "ano_inicio": "2022",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "02/2021 - Atual",
+      "ano_inicio": "2021",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "02/2021 - Atual",
+      "ano_inicio": "2021",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Instituto Federal do Espírito Santo - Campus Serra."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "10/2014 - Atual",
+      "ano_inicio": "2014",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "05/2013 - Atual",
+      "ano_inicio": "2013",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Pesquisa e desenvolvimento, Telessaúde - ES."
+      ]
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "03/2012 - 08/2014",
+      "ano_inicio": "2012",
+      "ano_fim": "2014",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo, IFES, Brasil",
+      "instituicao_nome": "Instituto Federal de Educação",
+      "instituicao_sigla": "Ciência e Tecnologia do Espírito Santo",
+      "instituicao_pais": "IFES",
+      "periodo": "12/2009 - 07/2010",
+      "ano_inicio": "2009",
+      "ano_fim": "2010",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "Inteligência Artificial Explicável para Diagnóstico Cardiovascular: Transformando a Interpretação de ECGs na Atenção à Saúde",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: As doenças cardiovasculares, como infarto do miocárdio, insuficiência cardíaca e arritmias, representam a principal causa de mortalidade no Brasil, exigindo estratégias robustas para diagnósticos precoces e intervenções eficazes. A detecção precoce de patologias cardíacas é fundamental para melhorar os desfechos clínicos e reduzir a mortalidade, sobretudo na Atenção Primária à Saúde (APS). Entretanto, a dependência da disponibilidade de especialistas para a interpretação de eletrocardiogramas (ECGs) na APS representa uma barreira significativa, comprometendo a eficiência diagnóstica e o manejo clínico.Uma interpretação precisa do ECG é crucial, especialmente para o diagnóstico de doenças silenciosas que não apresentam sintomas evidentes até que ocorra um evento agudo. A identificação de anomalias sutis nos traçados eletrocardiográficos permite intervenções antecipadas, prevenindo complicações graves e melhorando a qualidade de vida dos pacientes. Contudo, a falta de especialistas em cardiologia na APS dificulta a detecção dessas alterações, muitas vezes passando despercebidas.O projeto tem como objetivo o desenvolvimento de um sistema baseado em IA explicável para apoio à decisão clínica na análise de ECGs na APS. A explicabilidade das IAs desenvolvidas é essencial para garantir que os profissionais de saúde possam compreender as razões por trás das sugestões do sistema, aumentando a confiança e a aceitação da tecnologia na prática clínica, tanto por profissionais como por pacientes.A capacidade de explicar as recomendações do sistema é um fator determinante para a adoção em larga escala e integração harmoniosa com os processos existentes na APS. Utilizando técnicas avançadas de aprendizado profundo, o sistema será capaz de analisar e interpretar sinais de ECG em tempo real, de maneira explicável, auxiliando médicos e enfermeiros na detecção precoce de anomalias cardíacas. O projeto também avaliará o impacto do uso de sistemas de auxílio ao diagnóstico de ECG no tempo que o especialista leva para laudar um exame, utilizando indicadores como tempo médio de laudo e taxa de erros de diagnósticos, visando otimizar o processo e garantir intervenções mais ágeis e assertivas. A ferramenta será adequada para ser integrada aos fluxos de trabalho da APS, facilitando a triagem e permitindo intervenções mais rápidas e eficazes, promovendo uma melhoria na qualidade da atenção à saúde no SUS.Adicionalmente, o projeto visa fornecer um modelo escalável, que possa ser replicado em diferentes unidades de APS pelo Brasil, especialmente em regiões carentes, onde a presença de cardiologistas é limitada. Dessa forma, busca-se também contribuir para a padronização dos diagnósticos e a redução de disparidades regionais na oferta de serviços especializados.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Gabriel Tozatto Zago - Coordenador / Marcelo Queiroz Schimidt - Integrante / Jordano Ribeiro Celestrini - Integrante / Patrick Marques Ciarelli - Integrante / Mariana Rampinelli Fernanrdes - Integrante / Ana Carolina Simões Ramos - Integrante / Juliana Teixeira Dutra Fraga Sposito - Integrante / José Antônio Fiorot Junior - Integrante. Financiador(es): Fundação de Amparo à Pesquisa do Espírito Santo - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Marcelo Queiroz Schimidt",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jordano Ribeiro Celestrini",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Patrick Marques Ciarelli",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Mariana Rampinelli Fernanrdes",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ana Carolina Simões Ramos",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Juliana Teixeira Dutra Fraga Sposito",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "José Antônio Fiorot Junior",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Espírito Santo",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Classificação de imagens de OCT utilizando Deep Learning",
+      "ano_inicio": "2023",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: A tomografia de coerência óptica (OCT) é um exame importante para o estudo de doenças oftalmológicas, dentre elas a retinopatia diabética, que é a principal causa de cegueira no mundo em países industrializados (ÁVILA,2014), e a degeneração macular relacionada à idade (DMRI), outra causa importante de cegueira no mundo. Estima-se que sejam realizados mais de 30 milhões de exames de OCT anualmente ao redor do mundo, com objetivo de diagnosticar e tratar precocemente patologias oftalmológicas (SWANSON 2017). Deste modo, a criação de uma plataforma deInteligência Artificial que auxilie a classificação de imagens da retina obtidas através de OCT, poderá contribuir no aumento da disponibilidade do exame e na acurácia dos mesmos, impactando positivamente a qualidade de vida das pessoas com doenças oftalmológicas no estado do Espírito Santo e do Brasil.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) . Integrantes: Gabriel Tozatto Zago - Integrante / Bruno de Freitas Valbon - Integrante / João Pedro Costa Cancellieri - Coordenador / Rosane Ernestina Mageste - Integrante / Fabricio Sarmento Vassallo - Integrante / Rodolfo de Figueiredo Dalvi - Integrante. Financiador(es): Fundação de Amparo à Pesquisa do Espírito Santo - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Bruno de Freitas Valbon",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "João Pedro Costa Cancellieri",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Rosane Ernestina Mageste",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Fabricio Sarmento Vassallo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Rodolfo de Figueiredo Dalvi",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Espírito Santo",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Classificação de arritmias e isquemias cardíacas a partir de exames de eletrocardiograma",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: A evolução tecnológica e a redução de custos associadas ao acesso à internet têm contribuído para o crescimento dos serviços de telemedicina. Esses serviços são adequados em situações em que faltam profissionais de saúde ou o centro de atendimento médico mais próximo está localizado a uma grande distância daqueles que necessitam de atendimento. Entre as diversas modalidades de telemedicina, a Telecardiologia está relacionada à prestação remota de serviços cardiológicos. O principal serviço de Telecardiologia trata dos diagnósticos remotos de anormalidades presentes nos eletrocardiogramas (ECGs), que são enviados pela internet para um centro de telemedicina (MARCOLINO et al., 2014). O laudo diagnóstico gerado pelo cardiologista é então enviado de volta ao profissional de saúde que solicitou o serviço. O tempo de resposta do serviço de Telecardiologia é crítico dependendo da gravidade do diagnóstico, pois doenças graves requerem prioridade, diagnóstico precoce e tratamento imediato. Nesse contexto, este projeto de pesquisa está propondo um modelo de triagem automática para exames de ECG (ANDREÃO et al., 2013), onde os casos mais urgentes são priorizados na fila de espera para serem diagnosticados. Este projeto se concentrará em dois grupos principais de anomalias: arritmias e isquemias. Arritmias são alterações significantes na frequência cardíaca causadas por problemas no nodo sinusal, que é o marca-passo natural do coração, ou no sistema elétrico de condução do coração formado pelas células responsáveis por transmitir os sinais elétricos do nodo sinusal para os músculos cardíacos. Já isquemias miocárdicas são transtornos da função cardíaca causados por fluxo sanguíneo insuficiente ao tecido muscular do coração. A proposta deste projeto é utilizar diferentes algoritmos de aprendizado de máquina para classificar trechos de sinais eletrocardiográficos de acordo com os dois grupos propostos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Gabriel Tozatto Zago - Coordenador. Número de produções C, T & A: 2"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "Núcleo Emergente em Realidade Virtual e Gêmeos Digitais",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Este Projeto de Pesquisa beneficiado com financiamento da FAPES TO 1039/2022 propõe a criação do Núcleo de Realidade Virtual e Gêmeos Digitais reunindo pesquisadores e instituições com diferentes competências nas áreas de Engenharia Elétrica, Informática, Inteligência Artificial, Computação Gráfica e Design de Produtos. O Núcleo buscará com o trabalho compartilhado propor uma plataforma modularizada para permitir o avanço no desenvolvimento de simuladores virtuais integrados a sistemas físicos, com foco na capacitação profissional e no suporte aos profissionais do setor industrial. O domínio dessa tecnologia é fundamental para que instituições de ensino e pesquisa do Espírito Santo possam assumir o protagonismo neste tema, avaliando os seus benefícios, preparando os profissionais do setor e criando soluções nacionais.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (11) / Doutorado: (1) . Integrantes: Gabriel Tozatto Zago - Integrante / Rodrigo Varejão Andreão - Coordenador / Pablo Rodrigues Muniz - Integrante / Saulo Pereira Ribeiro - Integrante. Financiador(es): Fundação de Amparo à Pesquisa do Espírito Santo - Auxílio financeiro. Número de produções C, T & A: 1"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Rodrigo Varejão Andreão",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Pablo Rodrigues Muniz",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Saulo Pereira Ribeiro",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Espírito Santo",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Detecção de retinopatia diabética com Deep Learning",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2021",
+      "descricao": [
+        "Situação: Concluído; Natureza: Pesquisa. Integrantes: Gabriel Tozatto Zago - Coordenador / Bruno de Freitas Valbon - Integrante. Financiador(es): Fundação de Amparo à Pesquisa do Espírito Santo - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Bruno de Freitas Valbon",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Espírito Santo",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Núcleo de Engenharia e Inovação em Telessaúde e Telerreabilitação",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2019",
+      "descricao": [
+        "Descrição: Descrição: Projeto financiado pela FAPES TO093/2017. Este Projeto de Pesquisa apresenta a criação do Núcleo de Engenharia e Inovação em Telessaúde e Telerreabilitçaõ reunindo pesquisadores da UFES e do Ifes e colaborador internacional com diferentes competências na áreas de Engenharia Biomédica, Tecnologia Assistiva, do Processamento de Sinais e Imagens e da Tecnologia da Informação e Comunicação. Entre os objetivos do projeto vale destacar: 1. Desenvolvimento de sistema de processamento e interpretação de dados de pacientes em busca de padrões, elaborando previsões, gerando alertas, assistindo a equipe de saúde e o paciente no diagnóstico e acompanhamento de fatores de risco. 2. Criação de uma plataforma de assistência do paciente na realização de suas tarefas cotidianas e de exercícios físicos dentro de seu plano de cuidado, visando a recuperação física e a manutenção de sua qualidade de vida. 3. Proposta de um sistema aderente aos sensores, dispositivos de saúde e tecnologias assistivas, e que seja capaz de interoperar com esses dispositivos, fornecendo os dados necessários para as aplicações voltadas para a assistência do paciente. 4. Aumento da produção técnico-científica dos pesquisadores do Núcleo através da integração e fortalecimento de Grupos de Pesquisa do Estado em temas relacionados com a Telemedicina e Telerreabilitação. 5. Contribuição para impulsionar a pesquisa científica e o aumento do conhecimento através da formação de recursos humanos especializados e de melhorias nas instalações de laboratórios. Em termos numéricos, espera-se, no período de execução desta pesquisa a formação de, ao menos, 4 Mestres em Engenharia Elétrica, 2 Mestres em Tecnologias Sustentáveis, 2 Doutores em Informática, 3 Doutores em Engenharia Elétrica, 8 alunos de Iniciação Científica e, ao menos, 15 Graduados em Engenharia Elétrica. 6. Promoção de intercâmbio de conhecimento científico-tecnológico com grupos de pesquisa de instituições internacionais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) / Mestrado acadêmico: (5) / Mestrado profissional: (3) / Doutorado: (4) . Integrantes: Gabriel Tozatto Zago - Integrante / ANDREAO, RODRIGO VAREJAO - Coordenador / TEATINI SALLES, EVANDRO OTTONI - Integrante / Anselmo Frizera Neto - Integrante / Patrick Marques Ciarelli - Integrante / Maria José Pontes - Integrante / Celso Alberto Saibel Santos - Integrante. Financiador(es): Fundação de Amparo à Pesquisa do Espírito Santo - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "ANDREAO, RODRIGO VAREJAO",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "TEATINI SALLES, EVANDRO OTTONI",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anselmo Frizera Neto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Patrick Marques Ciarelli",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maria José Pontes",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Celso Alberto Saibel Santos",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Espírito Santo",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Tecnologia da Informação e Comunicação no Monitoramento de Pacientes Portadores de Hipertensão e Diabetes",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2017",
+      "descricao": [
+        "Descrição: (Edital Universal 2013: 487098/2013-7 )O emprego de estratégias que fazem uso da Telemedicina é uma alternativa de custo reduzido e que tem grande potencial de aumentar a efetividade no tratamento de pacientes crônicos. Além disso, a Telemedicina pode potencializar o trabalho das equipes de saúde multiprofissionais no cuidado de pessoas com doenças crônicas, tornando o sistema de saúde mais efetivo e eficiente. Neste sentido, o objetivo principal deste projeto é o estudo, a pesquisa e o desenvolvimento de um sistema de telemonitoramento do estado de saúde, hábitos de vida e de parâmetros vitais e biológicos de pacientes com diagnóstico de condições crônicas de adoecimento, particularmente hipertensão arterial sistêmica e diabetes mellitus, acompanhados por equipes de saúde multiprofissionais que atuam na Atenção Primária a Saúde.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) / Doutorado: (1) . Integrantes: Gabriel Tozatto Zago - Integrante / Rodrigo Varejão Andreão - Coordenador / Marcelo Queiroz Schimidt - Integrante / João Marques Salomão - Integrante / Thiago Sarti - Integrante. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Rodrigo Varejão Andreão",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Marcelo Queiroz Schimidt",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "João Marques Salomão",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Thiago Sarti",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Plataforma piloto para o acompanhamento do estado de saúde de pacientes crônicos",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2013",
+      "descricao": [
+        "Descrição: Neste sentido, o objetivo de projeto é a pesquisa e o desenvolvimento de um protótipo para aquisição e transmissão de dados biomédicos até um servidor remoto. Desta forma, os dados do paciente ficam disponíveis para o profissional de saúde fazer o acompanhamento do estado de saúde do mesmo. Entre os resultados esperados pelo projeto destaca-se o desenvolvimento de uma plataforma piloto para avaliação de estratégias de prevenção em pacientes portadores de doenças crônicas.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (3) / Mestrado acadêmico: (1) . Integrantes: Gabriel Tozatto Zago - Integrante / Rodrigo Varejão Andreão - Coordenador / Marcelo Queiroz Schimidt - Integrante. Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Rodrigo Varejão Andreão",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Marcelo Queiroz Schimidt",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Rede de Sensores sem Fio",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2008",
+      "descricao": [
+        "Descrição: Neste projeto desenvolvolveu-se um módulo com sensores (são usados sensores de temperatura) e eletrônica embarcada para ser utilizado em uma rede sem fio (Wireless Sensor Networks). Cada nó da rede (módulo) é capaz de enviar informações sobre as variáveis monitoradas por ele para nós vizinhos. A comunicação é feita por rádio freqüência e cada módulo é capaz de economizar energia permanecendo em hibernação sempre que possível. O objetivo foi utilizar módulos de baixo custo para monitorar variáveis físicas e transmitir as informações coletadas para pontos distantes através de sinais de Radiofreqüência.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Gabriel Tozatto Zago - Integrante / Hans Rolf Kulitz - Coordenador. Financiador(es): Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - Bolsa."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Hans Rolf Kulitz",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "Cultura Impressa: Esculturas 3D de artesãos locais com filamento de material reciclado",
+      "ano_inicio": "2025",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: Este projeto tem como objetivo unir arte, tecnologia e sustentabilidade, em parceria com o Centro Cultural Eliziário Rangel, para a criação de esculturas inspiradas na cultura e nos monumentos locais do município da Serra. Artistas artesãos locais irão esboçar as obras, que serão modeladas em 3D por bolsistas e impressas utilizando impressoras 3D. As peças serão produzidas com filamentos sustentáveis, desenvolvidos a partir de garrafas PET recicladas no laboratório do projeto. Além disso, o projeto também visa a pesquisa e desenvolvimento de melhorias no filamento 3D reciclável, promovendo a sustentabilidade e o reaproveitamento de materiais. As esculturas serão doadas para os centros culturais do município para fins de comercialização, fortalecendo a economia criativa local.. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Graduação: (2) . Integrantes: Gabriel Tozatto Zago - Coordenador / Adilson Ribeiro Prado - Integrante / Ricardo Ramos Costa - Integrante. Financiador(es): Fundação de Amparo à Pesquisa do Espírito Santo - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Adilson Ribeiro Prado",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ricardo Ramos Costa",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Espírito Santo",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "SerraMaker: fomentando a cultura Maker no município da Serra",
+      "ano_inicio": "2023",
+      "ano_conclusao": "2024",
+      "descricao": [
+        "Descrição: Este projeto visa promover a cultura maker nas escolas do município da Serra, proporcionando aos alunos experiências de aprendizado prático, inovação e resolução de problemas. Reconhecendo a importância da cultura maker para o desenvolvimento de habilidades como criatividade, pensamento crítico e colaboração, o projeto capacitará alunos do campus Serra do IFES em tecnologias da Economia 4.0, como modelagem 3D, manufatura aditiva, manufatura subtrativa e robótica. O projeto engloba a produção de material didático e experimentos para cada tecnologia, bem como a capacitação de professores da rede pública de ensino e instituições parceiras. Ao equipar os professores com habilidades da cultura maker, o projeto permite a criação de ambientes de aprendizado dinâmicos, onde os alunos podem explorar seus interesses, desenvolver habilidades essenciais e se preparar para os desafios do futuro. Os resultados esperados incluem a promoção da criatividade, o desenvolvimento de habilidades de resolução de problemas, o estímulo à colaboração e o trabalho em equipe, além do incentivo à aprendizagem interdisciplinar e ao empreendedorismo. Com a capacitação de professores e a implementação de espaços de cultura maker, o projeto busca moldar uma geração de indivíduos inovadores, adaptáveis e preparados para a sociedade voltada para a tecnologia.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (3) . Integrantes: Gabriel Tozatto Zago - Integrante / Rosiane Ribeiro Rocha - Coordenador / Richard Tello Godinez - Integrante / MARCOS SIMÃO GUIMARÃES - Integrante / Francisco José Casarim Rapchan - Integrante / Flávio Garcia Pereira - Integrante. Financiador(es): Fundação de Amparo à Pesquisa do Espírito Santo - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Rosiane Ribeiro Rocha",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Richard Tello Godinez",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "MARCOS SIMÃO GUIMARÃES",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Francisco José Casarim Rapchan",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Flávio Garcia Pereira",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Fundação de Amparo à Pesquisa do Espírito Santo",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "LabMaker Serra: Espaço Maker Multiusuário de Apoio ao Ensino, Pesquisa e Extensão",
+      "ano_inicio": "2022",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: Espaço Maker Multiusuário de Apoio ao Ensino, Pesquisa e Extensão do Ifes Serra.. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Graduação: (4) . Integrantes: Gabriel Tozatto Zago - Coordenador / Rosiane Ribeiro Rocha - Integrante / Richard Tello Godinez - Integrante / MARCOS SIMÃO GUIMARÃES - Integrante / Flávio Garcia Pereira - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Rosiane Ribeiro Rocha",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Richard Tello Godinez",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "MARCOS SIMÃO GUIMARÃES",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Flávio Garcia Pereira",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Oficinas de Educação 4.0",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2024",
+      "descricao": [
+        "Descrição: Resultado de parceria entre a SETEC/MEC e o Ifes, o objetivo do presente projeto é o de oferecer aos alunosda Rede Federal de Educação Profissional, Científica e Tecnológica atividades que insiram o aluno na nova era da 4a Revolução Industrial e estimulem o seu perfil empreendedor, favorecendo o protagonismo juvenil e contribuindo com o desenvolvimento de sua autonomia profissional. Tais iniciativas englobam ações de estímulo (a) ao emprego de tecnologias convergentes e habilitadoras; (b) o aprendizado em equipe baseado em desafios/ projetos de inovação por parte de alunos dos cursos de ensino médio técnico da Rede Federal de Educação Profissional, Científica e Tecnológica inclusive com estímulo ao empreendedorismo e a inovação, através da conexão dos projetos aos programas de pré-incubação das incubadoras da Rede Federal; (c) à iniciação e formação de alunos de ensino médio técnico em habilidades relacionadas às novas tecnologias digitais aplicáveis ao mundo do trabalho, como Manufatura Aditiva, Aprendizado de Máquina, Visão Computacional, programação de software embarcado, desenvolvimento de sistemas e aplicativos, realidade virtual e realidade aumentada, prototipagem de soluções tecnológicas e robótica; (d) a colaboração com instituições públicas de ensino estadual oferecendo atividades locais de sensibilização com respeito a incorporação das tecnologias convergentes e habilitadoras nas práticas de ensino.. Situação: Concluído; Natureza: Extensão. Integrantes: Gabriel Tozatto Zago - Integrante / Rodrigo Varejão Andreão - Coordenador / Marcelo Queiroz Schimidt - Integrante / Jordano Ribeiro Celestrini - Integrante. Financiador(es): Ministério da Educação - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Rodrigo Varejão Andreão",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Marcelo Queiroz Schimidt",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jordano Ribeiro Celestrini",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Ministério da Educação",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Manutenção do Programa Telessaúde no Espírito Santo",
+      "ano_inicio": "2017",
+      "ano_conclusao": "2018",
+      "descricao": [
+        "Descrição: Ministério da Saúde TED 22/2017: Trata-se de um convênio entre o Ifes e o Ministério da Saúde com o objetivo de Integrar o Programa Nacional de Telessaúde Brasil Redes, com a manutenção do Núcleo de Telessaúde no estado e 140 pontos de Telessaúde nos municípios, para melhoria da qualidade do atendimento na Atenção Básica no Sistema Único de Saúde?. Além disso, o projeto visa: 1. Manter 140 Pontos de Telessaúde vinculados ao Núcleo de Telessaúde Estadual do Espírito Santo; 2. Ofertar serviços de Teleconsultoria de acordo com metas e diretrizes vigentes do DEGES/SGTES/MS; 3. Manter serviços de Tele-educação de acordo com metas e diretrizes vigentes do DEGES/SGTES/MS; 4. Acompanhar e monitorar os indicadores mínimos de avaliação; 5. Publicar os conteúdos e objetos de aprendizagem produzidos no repositório Nacional do Ministério da Saúde; 6. Informar dados e indicadores ao Sistema de Monitoramento e Avaliação de Resultados do Programa Telessaúde Brasil Redes (SMART)... Situação: Concluído; Natureza: Extensão. Integrantes: Gabriel Tozatto Zago - Integrante / Rodrigo Varejão Andreão - Coordenador / Marcelo Queiroz Schimidt - Integrante / Jordano Ribeiro Celestrini - Integrante. Financiador(es): Diretoria Executiva do Fundo Nacional de Saúde - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Rodrigo Varejão Andreão",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Marcelo Queiroz Schimidt",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jordano Ribeiro Celestrini",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Diretoria Executiva do Fundo Nacional de Saúde",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Expansão do Telessaúde ES",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2018",
+      "descricao": [
+        "Descrição: (Termo de Cooperação TC 366/2013) Expansão da rede de Telessaúde no Estado do Espírito Santo de forma a atender todos os 78 municípios do estado, todas as unidades de saúde participantes dos programas Mais Médicos e Provab. Desenvolviemento de serviços de telemedicina baseados na web como Teleeducação, Teleconsultoria e Telediagnóstico, visando melhorar a qualidade dos serviços prestados na atenção primária em saúde, qualificar os encaminhamentos para o especialista e redução da quantidade de deslocamentos desnecessários de pacientes.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (8) . Integrantes: Gabriel Tozatto Zago - Integrante / Rodrigo Varejão Andreão - Coordenador / Marcelo Queiroz Schimidt - Integrante / Jordano Ribeiro Celestrini - Integrante / Thiago Sarti - Integrante / Solange Maria Loss Corradi - Integrante / Maria Zilma Rios - Integrante / Karina Tonini - Integrante. Financiador(es): Diretoria Executiva do Fundo Nacional de Saúde - Cooperação."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Rodrigo Varejão Andreão",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Marcelo Queiroz Schimidt",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jordano Ribeiro Celestrini",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Thiago Sarti",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Solange Maria Loss Corradi",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Maria Zilma Rios",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Karina Tonini",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Diretoria Executiva do Fundo Nacional de Saúde",
+          "tipo_apoio": "Cooperação"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [
+    {
+      "nome": "Projeto de Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora 2013-2016",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2016",
+      "descricao": [
+        "Descrição: Plataforma de Telecardiologia com Módulo de Triagem Automática de Exames de ECG.. Situação: Concluído; Natureza: Desenvolvimento. Alunos envolvidos: Graduação: (4) . Integrantes: Gabriel Tozatto Zago - Coordenador / Marcelo Queiroz Schimidt - Integrante / Jordano Ribeiro Celestrini - Integrante. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa."
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Marcelo Queiroz Schimidt",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jordano Ribeiro Celestrini",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "Tecnologia da Informação e Comunicação no Suporte à Telecardiologia nos Serviços de Urgência e Emergência",
+      "ano_inicio": "2013",
+      "ano_conclusao": "2015",
+      "descricao": [
+        "Descrição: Processo 488169/2013-5. O objetivo do projeto é desenvolver uma solução de transmissão de exames de eletrocardiograma via Internet. A captura, visualização e realização de laudo são feitas via aplicativo baseado na web. A solução implementada é multiplataforma, permitindo a realização das tarefas seja em um dispositivo portátil seja em um desktop.. Situação: Concluído; Natureza: Desenvolvimento. Alunos envolvidos: Graduação: (2) . Integrantes: Gabriel Tozatto Zago - Integrante / Rodrigo Varejão Andreão - Coordenador / Marcelo Queiroz Schimidt - Integrante / Jordano Ribeiro Celestrini - Integrante / Thiago Sarti - Integrante. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Rodrigo Varejão Andreão",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Marcelo Queiroz Schimidt",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jordano Ribeiro Celestrini",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Thiago Sarti",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Sistema de Auxílio a Cardiopatas utilizando Redes Bayesianas Dinâmicas no Diagnóstico de ECGs.",
+      "ano_inicio": "2009",
+      "ano_conclusao": "2010",
+      "descricao": [
+        "Descrição: Este Projeto procura desenvolver um sistema que utiliza as Redes Bayesianas Dinâmicas para realizar a análise completa do ECG de um indivíduo, desde a segmentação atá a análise de isquemias e arritmias, enviando mensagens de alerta em situações de risco.. Situação: Em andamento; Natureza: Desenvolvimento. Integrantes: Gabriel Tozatto Zago - Integrante / Rodrigo Varejão Andreão - Coordenador."
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Rodrigo Varejão Andreão",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "Análise de Ruído em Eletrocardiograma",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2009",
+      "descricao": [
+        "Descrição: Este projeto analisa o nível de ruído em Eletrocardiogramas ambulatoriais e retira diversas formas de ruído utilizando software.. Situação: Concluído; Natureza: Desenvolvimento. Alunos envolvidos: Graduação: (2) . Integrantes: Gabriel Tozatto Zago - Coordenador / Rodrigo Varejão Andreão - Integrante / Bruno Neves Amigo - Integrante."
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Gabriel Tozatto Zago",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Rodrigo Varejão Andreão",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Bruno Neves Amigo",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Probabilidade e Estatística",
+      "subarea": "Estatística",
+      "especialidade": "Análise de Dados",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Probabilidade e Estatística / Subárea: Estatística/Especialidade: Análise de Dados."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Metodologia e Técnicas da Computação",
+      "especialidade": "Banco de Dados",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Banco de Dados."
+    },
+    {
+      "grande_area": "Engenharias",
+      "area": "Engenharia Biomédica",
+      "subarea": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Engenharias / Área: Engenharia Biomédica."
+    },
+    {
+      "grande_area": "Engenharias",
+      "area": "Engenharia Elétrica",
+      "subarea": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Engenharias / Área: Engenharia Elétrica."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "",
+      "fala": "",
+      "le": "Pouco",
+      "escreve": "",
+      "proficiencia_completa": "Lê Pouco."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Telecárdio",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Forecasting vehicular traffic flow using MLP and LSTM",
+        "ano": 2021,
+        "autores": "OLIVEIRA, DIOGO DAVID ; RAMPINELLI, MARIANA ; TOZATTO, GABRIEL ZAGO ; ANDREÃO, RODRIGO VAREJÃO ; MÜLLER, SANDRA M. T.",
+        "revista": "NEURAL COMPUTING & APPLICATIONS",
+        "volume": "43",
+        "numero": "",
+        "paginas": "1-12",
+        "issn": "0941-0643",
+        "doi": "http://dx.doi.org/10.1007/s00521-021-06315-w",
+        "qualis": ""
+      },
+      {
+        "titulo": "Diabetic retinopathy detection using red lesion localization and convolutional neural networks",
+        "ano": 2020,
+        "autores": "ZAGO, GABRIEL TOZATTO; ANDREÃO, RODRIGO VAREJÃO ; DORIZZI, BERNADETTE ; TEATINI SALLES, EVANDRO OTTONI",
+        "revista": "COMPUTERS IN BIOLOGY AND MEDICINE",
+        "volume": "116",
+        "numero": "",
+        "paginas": "103537",
+        "issn": "0010-4825",
+        "doi": "http://dx.doi.org/10.1016/j.compbiomed.2019.103537",
+        "qualis": ""
+      },
+      {
+        "titulo": "Retinal image quality assessment using deep learning",
+        "ano": 2018,
+        "autores": "ZAGO, GABRIEL TOZATTO; ANDREÃO, RODRIGO VAREJÃO ; DORIZZI, BERNADETTE ; TEATINI SALLES, EVANDRO OTTONI",
+        "revista": "COMPUTERS IN BIOLOGY AND MEDICINE",
+        "volume": "103",
+        "numero": "",
+        "paginas": "64-70",
+        "issn": "0010-4825",
+        "doi": "http://dx.doi.org/10.1016/j.compbiomed.2018.10.004",
+        "qualis": ""
+      },
+      {
+        "titulo": "Heartbeat classification system based on neural networks and dimensionality reduction",
+        "ano": 2016,
+        "autores": "DALVI, RODOLFO DE FIGUEIREDO ; ZAGO, GABRIEL TOZATTO ; ANDREÃO, RODRIGO VAREJÃO",
+        "revista": "RESEARCH ON BIOMEDICAL ENGINEERING",
+        "volume": "32",
+        "numero": "",
+        "paginas": "318-326",
+        "issn": "2446-4740",
+        "doi": "http://dx.doi.org/10.1590/2446-4740.05815",
+        "qualis": ""
+      },
+      {
+        "titulo": "UTILIZAÇÃO DO MÉTODO DA DECOMPOSIÇÃO DE MODO EMPÍRICO PARA A REMOÇÃO DE RUÍDO EM SINAIS DE ELETROCARDIOGRAMA",
+        "ano": 2015,
+        "autores": "ZAGO, G. T.; Andreão, R. V. ; SCHIMIDT, M. Q. ; FARIA FILHO, F. P.",
+        "revista": "REVISTA IFES CIÊNCIA",
+        "volume": "1",
+        "numero": "",
+        "paginas": "137-155",
+        "issn": "2359-4799",
+        "doi": "http://dx.doi.org/10.36524/ric.v1i1.247",
+        "qualis": ""
+      },
+      {
+        "titulo": "ECG-based detection of left ventricle hypertrophy",
+        "ano": 2015,
+        "autores": "ZAGO, G. T.; Andreão, R. V. ; RODRIGUES, S. L. ; MILL, J. G. ; SARCINELLI FILHO, M.",
+        "revista": "Research on Biomedical Engineering",
+        "volume": "31",
+        "numero": "",
+        "paginas": "125-132",
+        "issn": "2446-4740",
+        "doi": "http://dx.doi.org/10.1590/2446-4740.0691",
+        "qualis": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "Manufatura subtrativa CNC",
+        "ano": 2024,
+        "autores": "MARQUES, A. (Org.) ; PATROCINIO, C. (Org.) ; Andreão, R. V. (Org.) ; ZAGO, G. T. (Org.) ; SCHIMIDT, M. Q. (Org.)",
+        "editora": "Vitória: Instituto Federal do Espírito Santo",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "80"
+      },
+      {
+        "titulo": "Modelagem 3D orientada à manufatura aditiva",
+        "ano": 2024,
+        "autores": "BRUNORO, M. (Org.) ; Andreão, R. V. (Org.) ; SCHIMIDT, M. Q. (Org.) ; ZAGO, G. T. (Org.) ; CELESTRINI, J. R. (Org.)",
+        "editora": "Vitória: Instituto Federal do Espírito Santo",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "121"
+      },
+      {
+        "titulo": "Desenvolvimento de aplicativos para dispositivos móveis",
+        "ano": 2024,
+        "autores": "ANDRADE, J. C. S. (Org.) ; Andreão, R. V. (Org.) ; SCHIMIDT, M. Q. (Org.) ; ZAGO, G. T. (Org.) ; CELESTRINI, J. R. (Org.)",
+        "editora": "Vitória: Instituto Federal do Espírito Santo",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "124"
+      },
+      {
+        "titulo": "Empreendedorismo e inovação",
+        "ano": 2024,
+        "autores": "ZANDONADE, V. (Org.) ; Andreão, R. V. (Org.) ; SCHIMIDT, M. Q. (Org.) ; ZAGO, G. T. (Org.) ; CELESTRINI, J. R. (Org.)",
+        "editora": "Vitória: Instituto Federal do Espírito Santo",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "61"
+      },
+      {
+        "titulo": "Pensamento computacional para a indústria 4.0",
+        "ano": 2023,
+        "autores": "NUNES, R. B. (Org.) ; CARVALHO, V. A. (Org.) ; Andreão, R. V. (Org.) ; SCHIMIDT, M. Q. (Org.) ; ZAGO, G. T. (Org.) ; CELESTRINI, J. R. (Org.)",
+        "editora": "Vitória: Instituto Federal do Espírito Santo",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "82"
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "Automatic Disease Detection in OCT Images Using a Reduced-Size Deep Learning Model",
+        "ano": 2025,
+        "autores": "do Nascimento Ramos, Vitor ; VIEIRA, I. A. D. ; Andreão, R. V. ; CANCELLIERI, J. P. C. ; Valbon, D. F. V. ; ZAGO, G. T.",
+        "titulo_livro": "",
+        "editora": "Springer Nature Switzerland",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "512-519"
+      },
+      {
+        "titulo": "Telessaúde no SUS: avanços e desafios do século XXI",
+        "ano": 2025,
+        "autores": "FERNANRDES, M. R. ; Andreão, R. V. ; SCHIMIDT, M. Q. ; CELESTRINI, J. R. ; ZAGO, G. T. ; RAMOS, A. C. S.",
+        "titulo_livro": "",
+        "editora": "UFMG",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "415-424"
+      },
+      {
+        "titulo": "A Comprehensive Evaluation of Publicly Available QRS Detection Algorithms for ECG Analysis",
+        "ano": 2025,
+        "autores": "FOLLI, M. P. ; Andreão, R. V. ; ZAGO, G. T.",
+        "titulo_livro": "",
+        "editora": "Springer Nature Switzerland",
+        "cidade": "",
+        "isbn": "",
+        "paginas": "731-741"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "A Comprehensive Evaluation of Publicly Available QRS Detection Algorithms for ECG Analysis",
+        "ano": 2024,
+        "autores": "FOLLI, M. P. ; Andreão, R. V. ; ZAGO, G. T.",
+        "evento": "29° Congresso Brasileiro de Engenharia Biomédica",
+        "cidade": "",
+        "paginas": "1-6",
+        "isbn": ""
+      },
+      {
+        "titulo": "AUTOMATIC DISEASE DETECTION IN OCT IMAGES USING A REDUCED-SIZE DEEP LEARNING MODEL",
+        "ano": 2024,
+        "autores": "RAMOS, V. N. ; VIEIRA, I. A. D. ; Andreão, R. V. ; CANCELLIERI, J. P. C. ; VALBON, B. F. ; ZAGO, G. T.",
+        "evento": "XXIX Congresso Brasileiro de Engenharia Biomédica",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Optimizing Industrial Processes through Digital Twin Simulation in a Didactic Manufacturing Plant",
+        "ano": 2023,
+        "autores": "GUIMARAES, J. F. ; GAUDIO, M. R. S. ; CARVALHO, G. ; Andreão, R. V. ; RIBEIRO, S. P. ; FERREIRA, R. M. M. ; DIAS, M. L. R. X. ; ZAGO, G. T.",
+        "evento": "Symposium on Virtual and Augmented Reality SVR '23",
+        "cidade": "",
+        "paginas": "1-7",
+        "isbn": ""
+      },
+      {
+        "titulo": "Implementação de uma plataforma de Gêmeo Digital de uma Planta Industrial Didática",
+        "ano": 2023,
+        "autores": "GUIMARAES, J. F. ; GAUDIO, M. R. S. ; CORDEIRO, G. ; FERREIRA, R. M. M. ; DIAS, M. L. R. X. ; Andreão, R. V. ; RIBEIRO, S. P. ; ZAGO, G. T.",
+        "evento": "IEEE International Conference on Industry Applications",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uma Análise Comparativa do Desempenho de Algoritmos de Classificação no Diagnóstico de Falhas em Rolamentos de Motores Elétricos a Partir de Sinais de Vibração",
+        "ano": 2022,
+        "autores": "CAMPOS, R. C. ; NASCIMENTO, G. P. ; ZAGO, G. T. ; PINTO, L. A.",
+        "evento": "XXIV Congresso Brasileiro de Automática",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Prediction failure in electric motors bearings using vibration signals and Long Short Term-memory neural networks",
+        "ano": 2022,
+        "autores": "CAMPOS, R. C. ; ZAGO, G. T. ; PINTO, L. A.",
+        "evento": "XLIII Ibero-Latin-American Congress on Computational Methods in Engineering",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Detecção de Fibrilação Atrial em Sinais de Eletrocardiograma Baseado em Características do Intervalo RR Utilizando Limiar e Redes Neurais",
+        "ano": 2020,
+        "autores": "PEREIRA, R. ; Andreão, R. V. ; ZAGO, G. T.",
+        "evento": "XXVII Congresso Brasileiro de Engenharia Biomédica (CBEB 2020)",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Proposta de um Sistema de Triagem Automática de Imagens de Retina para Serviços de Teleoftalmologia",
+        "ano": 2018,
+        "autores": "PEREIRA, R. ; Andreão, R. V. ; ZAGO, G. T. ; CELESTRINI, J. R.",
+        "evento": "XVI Congresso Brasileiro de Informática - CBIS 2018",
+        "cidade": "",
+        "paginas": "923-936",
+        "isbn": ""
+      },
+      {
+        "titulo": "Metodologia computacional de processamento digital de imagens de fundo de olho para o diagnóstico de glaucoma",
+        "ano": 2016,
+        "autores": "ZAGO, G. T.; DALVI, R. F. ; Andreão, R. V. ; ALMEIDA, B. D.",
+        "evento": "XXI Congresso Brasileiro de Automática",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Classificação de anomalias cardíacas a partir de exames de Eletrocardiograma",
+        "ano": 2015,
+        "autores": "DALVI, R. F. ; Andreão, R. V. ; ZAGO, G. T.",
+        "evento": "15o Workshop de Informática Médica",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Diagnóstico Automatizado de Diabetes a partir das análises de Variabilidade da Frequência Cardíaca",
+        "ano": 2012,
+        "autores": "CALOTI, T. A. ; Andreão, R. V. ; DANTAS, E. M. ; MILL, J. G. ; ZAGO, G. T.",
+        "evento": "XIX Congresso Brasileiro de Automática",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Comparação de métodos de detecção da onda T para a análise automática da dispersão QT",
+        "ano": 2012,
+        "autores": "ZAGO, G. T.; Andreão, R. V. ; CALOTI, T. A.",
+        "evento": "XXIII Congresso Brasileiro de Engenharia Biomédica",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Análise linear e não linear da variabilidade da frequência cardíaca em pacientes com diabetes",
+        "ano": 2012,
+        "autores": "CALOTI, T. A. ; Andreão, R. V. ; DANTAS, E. M. ; MILL, J. G. ; ZAGO, G. T.",
+        "evento": "XXIII Congresso Brasileiro de Engenharia Biomédica",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uso de redes Bayesianas dinâmicas na segmentação do eletrocardiograma",
+        "ano": 2012,
+        "autores": "ZAGO, G. T.; Andreão, R. V. ; CALOTI, T. A.",
+        "evento": "XIX Congresso Brasileiro de Automática",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Uso do Padrão DICOM SR para Laudo Estruturado Originado do Exame de VFC",
+        "ano": 2010,
+        "autores": "Nascente, G. ; Andreão, R. V. ; ZAGO, G. T.",
+        "evento": "XII Congresso Brasileiro de Informática em Saúde",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Transmissão de Sinais Vitais para Serviços Móveis de Urgência",
+        "ano": 2010,
+        "autores": "Andreão, R. V. ; BASTOS, L. P. ; Vivacqua, R P D ; Passos Filho, U S ; Moraes, G S ; ZAGO, G. T.",
+        "evento": "Transmissão de Sinais Vitais para Serviços Móveis de Urgência",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "VALIDACAO DE UM SISTEMA DE CLASSIFICACAO AUTOMATICA DE BATIMENTOS CARDIACOS PREMATUROS BASEADO EM REDES BAYESIANAS DINAMICAS",
+        "ano": 2010,
+        "autores": "ZAGO, G. T.; Andreão, R. V.",
+        "evento": "Congresso Brasileiro de Engenharia Biomédica",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "VALIDAÇÃO DE UM SISTEMA PARA CÁLCULO AUTOMATIZADO DO ESCORE DE ALDRICH COMO AUXÍLIO NO DIAGNÓSTICO DO INFARTO AGUDO DO MIOCÁRDIO",
+        "ano": 2010,
+        "autores": "Amigo, B. N. ; CALOTI, T. A. ; ZAGO, G. T. ; Andreão, R. V.",
+        "evento": "Congresso Brasileiro de Engenharia Biomédica",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      },
+      {
+        "titulo": "Sistema a Base de Regras para a Detecção de Episódios Isquêmicos",
+        "ano": 2009,
+        "autores": "ZAGO, G. T.; Andreão, R. V. ; Amigo, B. N.",
+        "evento": "Simpósio Brasileiro de Automação Inteligente",
+        "cidade": "",
+        "paginas": "",
+        "isbn": ""
+      }
+    ],
+    "resumos_expandidos": [],
+    "resumos_congressos": [
+      {
+        "titulo": "Impacto do cancelamento adaptativo de ruído e avaliação da qualidade da fala durante uma chamada VoIP em um ambiente de Telessaude",
+        "ano": 2017,
+        "autores": "RODRIGUES, C. L. ; SILVA, D. C. A. ; Andreão, R. V. ; ZAGO, GABRIEL TOZATTO ; CABELINO, R. B.",
+        "evento": "8° Congresso Brasileiro de Telemedicina e Telessaúde, 2017, Gramado. Anais do 8° Congresso Brasileiro de Telemedicina e Telessaúde",
+        "cidade": ""
+      },
+      {
+        "titulo": "Implantação de teleconsultoria síncrona no Telessaude do ES através de call center baseado em plataforma VoIP de código aberto",
+        "ano": 2017,
+        "autores": "RODRIGUES, C. L. ; Andreão, R. V. ; CABELINO, R. B. ; ZAGO, GABRIEL TOZATTO ; SCHIMIDT, M. Q. ; CELESTRINI, J. R.",
+        "evento": "8° Congresso Brasileiro de Telemedicina e Telessaúde, 2017, Gramado. Anais do 8° Congresso Brasileiro de Telemedicina e Telessaúde",
+        "cidade": ""
+      }
+    ],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [
+        {
+          "titulo": "Predição de Falhas em Rolamentos de Motores Elétricos com a Utilização de Técnicas de Deep Learning",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Rodrigo Cesar Campos",
+          "tipo_trabalho": "",
+          "instituicao": "Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia de Controle e Automação (ProPECAut)) - Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "IDENTIFICAÇÃO DE FIBRILAÇÃO ATRIAL UTILIZANDO REDES LSTM ? LONG SHORT-TERM MEMORY",
+          "ano_inicio": 2019,
+          "ano_conclusao": 2019,
+          "orientando": "Rafael Pereira",
+          "tipo_trabalho": "Dissertação",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+          "curso": ""
+        }
+      ],
+      "especializacao": [],
+      "tcc": [
+        {
+          "titulo": "Classificação de anomalias cardíacas a partir de exames de eletrocardiograma",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Rodolfo de Figueiredo Dalvi",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Desenvolvimento de módulo assistivo de telecardiologia para serviços de urgência e emergência",
+          "ano_inicio": 2015,
+          "ano_conclusao": 2015,
+          "orientando": "Vinícius Ávila da Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        }
+      ],
+      "iniciacao_cientifica": [
+        {
+          "titulo": "Detecção de anomalias na retina a partir de imagens de OCT utilizando deep learning",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Vitor Nascimento Ramos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Segmentação semântica de imagens de OCT utilizando deep learning",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Isabelle Alessandra Dias Vieira",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Desenvolvimento de Materiais Didáticos Inovadores Para o Ensino de Disciplinas Técnicas com Tecnologias da Indústria 4.0",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Enzo Mandelli Pinheiro Rodrigues",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Desenvolvimento de IA explicável para classificação de imagens de OCT utilizando LIME (Local Interpretable Model-agnostic Explanations)",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "Larissa Maciel Santos",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Desenvolvimento de IA explicável para classificação de imagens de OCT utilizando Global Surrogate",
+          "ano_inicio": 2024,
+          "ano_conclusao": 2024,
+          "orientando": "raquel nascimento neres",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Instrumentação Planta Física",
+          "ano_inicio": 2023,
+          "ano_conclusao": 2023,
+          "orientando": "Carlos Eduardo Costa",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo",
+          "curso": ""
+        },
+        {
+          "titulo": "Classificação de arritmias cardíacas a partir de exames de eletrocardiograma",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Filipe Suhett Nogueira Silva",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        },
+        {
+          "titulo": "Classificação de isquemias cardíacas a partir de exames de eletrocardiograma",
+          "ano_inicio": 2022,
+          "ano_conclusao": 2022,
+          "orientando": "Erick Kenzo Komati",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Instituto Federal de Educação",
+          "curso": ""
+        }
+      ],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "Siicusp",
+        "apresentacao": "Rede sem Fio de Sensores",
+        "ano": 2008,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento"
+      }
+    ],
+    "organizacoes": []
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [
+      {
+        "descricao": "ALMONFREY, D.; ANDREAO, RODRIGO VAREJAO; ZAGO, G. T.. Participação em banca de DANIEL GAZZOLI NUNES.UM ALGORÍTMO DE DETECÇÃO DE HIPERTROFIA DE VENTRÍCULO ESQUERDO NO ELETROCARDIOGRAMA UTILIZANDO APRENDIZAGEM DE MÁQUINA. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "DANIEL GAZZOLI NUNES",
+        "membros_banca": [
+          "ALMONFREY, D.",
+          "ANDREAO, RODRIGO VAREJAO",
+          "ZAGO, G. T."
+        ],
+        "titulo_trabalho": "UM ALGORÍTMO DE DETECÇÃO DE HIPERTROFIA DE VENTRÍCULO ESQUERDO NO ELETROCARDIOGRAMA UTILIZANDO APRENDIZAGEM DE MÁQUINA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo"
+      },
+      {
+        "descricao": "EISENLOHR, I. M.; FERNANRDES, M. R.; CANI, S. P. N.; ZAGO, G. T.. Participação em banca de Igor Miranda Eisenlohr.USO DE MODELOS DE APRENDIZADO DE MÁQUINA PARA ANÁLISEE PREDIÇÃO DE RECUPERAÇÃO DE PACIENTES DE COVID-19 NO MUNICÍPIO DEVITÓRIA - ES. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Igor Miranda Eisenlohr",
+        "membros_banca": [
+          "EISENLOHR, I. M.",
+          "FERNANRDES, M. R.",
+          "CANI, S. P. N.",
+          "ZAGO, G. T."
+        ],
+        "titulo_trabalho": "USO DE MODELOS DE APRENDIZADO DE MÁQUINA PARA ANÁLISEE PREDIÇÃO DE RECUPERAÇÃO DE PACIENTES DE COVID-19 NO MUNICÍPIO DEVITÓRIA - ES",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo"
+      },
+      {
+        "descricao": "ALMONFREY, D.; NUNES, R. B.; ZAGO, G. T.. Participação em banca de Franthesco Marchesi Araujo.SERVIÇO WEB PARA CLASSIFICAÇÃO DE FAKE NEWS. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Franthesco Marchesi Araujo",
+        "membros_banca": [
+          "ALMONFREY, D.",
+          "NUNES, R. B.",
+          "ZAGO, G. T."
+        ],
+        "titulo_trabalho": "SERVIÇO WEB PARA CLASSIFICAÇÃO DE FAKE NEWS",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "Andreão, R. V.; MESTRIA, M.; ZAGO, G. T.. Participação em banca de RAFAEL ALVES MELANDES. DESENVOLVIMENTO DE SISTEMA INTELIGENTE PARA A DETECÇÃO DA DOENÇA DE PARKINSON ATRAVÉS DA VOZ. 2015. Monografia (Aperfeiçoamento/Especialização em Sistemas Inteligentes Aplicados à Automação) - Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo.",
+        "ano": 2015,
+        "tipo": "Participação em banca",
+        "aluno": "RAFAEL ALVES MELANDES",
+        "membros_banca": [
+          "Andreão, R. V.",
+          "MESTRIA, M.",
+          "ZAGO, G. T."
+        ],
+        "titulo_trabalho": "DESENVOLVIMENTO DE SISTEMA INTELIGENTE PARA A DETECÇÃO DA DOENÇA DE PARKINSON ATRAVÉS DA VOZ",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Sistemas Inteligentes Aplicados à Automação)",
+        "universidade": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo"
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 6,
+    "total_livros": 5,
+    "total_capitulos": 3,
+    "total_trabalhos_congressos": 19,
+    "total_projetos_pesquisa": 9,
+    "total_projetos_extensao": 6,
+    "total_projetos_desenvolvimento": 4,
+    "total_orientacoes_concluidas": 10,
+    "total_orientacoes_andamento": 0
+  }
+}
