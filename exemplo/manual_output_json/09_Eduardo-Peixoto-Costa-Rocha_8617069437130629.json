@@ -1,0 +1,177 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "8617069437130629",
+    "nome_completo": "Eduardo Peixoto Costa Rocha",
+    "nome_citacoes": "ROCHA, E. P. C.",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "21/09/2022",
+    "url": "http://lattes.cnpq.br/8617069437130629",
+    "texto_resumo": "Possui graduação em Sistema de Informação pelo Fundação de Assistência e Educação(2011) e especialização em Redes de Computadores pela Escola Superior Aberta do Brasil(2015). Atualmente é Chefe de Equipe do Fundação de Amparo à Pesquisa do Espírito Santo e Analista de Sistema da Secretaria de Saneamento, Habitação e Desenvolvimento Urbano do ES. Tem experiência na área de Ciência da Computação, com ênfase em Sistemas de Computação. (Texto gerado automaticamente pela aplicação CVLattes)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Especialização em Redes de Computadores",
+      "nome_instituicao": "(Carga Horária: 480h)",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2015",
+      "descricao": "Escola Superior Aberta do Brasil, ESAB, Brasil. Título: Soluções de Segurança no Ambiente Público."
+    },
+    {
+      "tipo": "Graduação em Sistema de Informação",
+      "nome_instituicao": "Fundação de Assistência e Educação, FAESA, Brasil",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2011",
+      "descricao": "Título: SISTEMA DE ACOMPANHAMENTO PEDAGÓGICO. Orientador: Daniel Barbosa de Oliveira."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Fundação de Amparo à Pesquisa do Espírito Santo, FAPES/ES, Brasil.",
+      "instituicao_nome": "Fundação de Amparo à Pesquisa do Espírito Santo",
+      "instituicao_sigla": "FAPES/ES",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Chefe de Equipe",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto de Desenvolvimento Urbano e Habitação do ES, IDURB, Brasil.",
+      "instituicao_nome": "Instituto de Desenvolvimento Urbano e Habitação do ES",
+      "instituicao_sigla": "IDURB",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - 2016",
+      "ano_inicio": "2012",
+      "ano_fim": "2016",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Analista de Sistema",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Secretaria de Saneamento, Habitação e Desenvolvimento Urbano do ES, SEDURB, Brasil.",
+      "instituicao_nome": "Secretaria de Saneamento",
+      "instituicao_sigla": "Habitação e Desenvolvimento Urbano do ES",
+      "instituicao_pais": "SEDURB",
+      "periodo": "2016 - Atual",
+      "ano_inicio": "2016",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Analista de Sistema",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas de Computação",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Português",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Inglês",
+      "compreende": "Pouco",
+      "fala": "Pouco",
+      "le": "Pouco",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Pouco, Fala Pouco, Lê Pouco, Escreve Pouco."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [],
+    "livros_publicados": [],
+    "capitulos_livros": [],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [],
+    "organizacoes": []
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [],
+    "outras": []
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 0,
+    "total_livros": 0,
+    "total_capitulos": 0,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 0,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 0
+  }
+}
