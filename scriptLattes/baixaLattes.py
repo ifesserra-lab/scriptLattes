@@ -15,15 +15,10 @@ except ImportError:
     bs4 = None
 
 try:
-    from selenium import webdriver
-    from selenium.common.exceptions import InvalidArgumentException, TimeoutException, WebDriverException
-    from selenium.webdriver.chrome.service import Service
+    from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 except ImportError:
-    webdriver = None
-    InvalidArgumentException = None
-    TimeoutException = None
-    WebDriverException = None
-    Service = None
+    sync_playwright = None
+    PlaywrightTimeoutError = None
 
 import platform
 import warnings
@@ -36,23 +31,24 @@ URL_LATTES_ID16 = 'http://lattes.cnpq.br/{0}'
 
 
 class LattesRobot:
-    def __init__(self, driver_path, results_dir):
-        #logging.getLogger('selenium').setLevel(logging.WARNING)
-        self.driver_path = driver_path
+    def __init__(self, results_dir):
+        """
+        Initialize the LattesRobot with Playwright.
+        
+        Args:
+            results_dir: Directory to save downloaded CV HTML files
+        """
         self.results_dir = results_dir
-        self.driver = None
-        #self.ua = UserAgent()
+        self.playwright = None
+        self.browser = None
+        self.context = None
+        self.page = None
         self.identifiers = set()
         self.downloaded_identifiers = set()
-        self.sleep_time = 4
         self.lid_type = -1
         self.initialize()
 
     def initialize(self):
-        if not os.path.exists(self.driver_path):
-            #logging.error('Invalid driver path: %s' % self.driver_path)
-            exit(1)
-
         if not os.path.exists(self.results_dir):
             os.makedirs(self.results_dir)
 
@@ -63,35 +59,25 @@ class LattesRobot:
     def check_downloaded_cvs(self):
         self.downloaded_identifiers = {h for h in os.listdir(self.results_dir) if len(h) == self.lid_type}
 
-
-    def create_driver(self):
-        chrome_options = webdriver.ChromeOptions()
-        chrome_options.add_argument("start-maximized")
-        chrome_options.add_argument('--blink-settings=imagesEnabled=false') 
-        chrome_options.add_argument("--headless")
-        chrome_options.add_argument("--no-sandbox")
-        chrome_options.add_argument("--disable-dev-shm-usage")
-        chrome_options.add_argument("--remote-debugging-port=9222")
-        chrome_options.add_argument("--disable-gpu")
-        chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
-        chrome_options.add_experimental_option('useAutomationExtension', False)
-        chrome_options.add_experimental_option('prefs', {'download.default_directory': self.results_dir})
- 
-        so = platform.system()
-        if so == 'Windows':
-            chrome_driver_path = os.path.abspath("chromedriver.exe")
-        elif so == 'Linux':
-            chrome_driver_path = os.path.abspath("chromedriver")
-        else:
-            print('Sistema Operacional não identificado')
-            
-        service = Service(chrome_driver_path)
- 
-        try:
-            self.driver = webdriver.Chrome(service=service, options=chrome_options)
-        except Exception as e:
-            print(f"Erro ao inicializar o driver: {e}")
-
+    def create_browser(self):
+        """Create and configure the Playwright browser instance."""
+        if sync_playwright is None:
+            raise ImportError("Playwright is not installed. Run: pip install playwright && playwright install chromium")
+        
+        self.playwright = sync_playwright().start()
+        self.browser = self.playwright.chromium.launch(
+            headless=True,
+            args=[
+                '--no-sandbox',
+                '--disable-dev-shm-usage',
+                '--disable-gpu',
+            ]
+        )
+        self.context = self.browser.new_context(
+            viewport={'width': 1920, 'height': 1080},
+            java_script_enabled=True,
+        )
+        self.page = self.context.new_page()
 
     def collect_html_cvs(self, start, end):
         total_lids = len(list(self.identifiers)[start:end])
@@ -103,39 +89,39 @@ class LattesRobot:
                 if lids[self.lid_type] not in self.downloaded_identifiers:
                     self._execute_js(lids)
 
-
-    def store_html(self, lid, page):
+    def store_html(self, lid, page_content):
         with open(os.path.join(self.results_dir, lid), 'wb') as fout:
             try:
-                #data = page.encode('iso-8859-1', 'replace').strip()
-                data = page.encode('utf-8', 'replace').strip()
+                data = page_content.encode('utf-8', 'replace').strip()
             except UnicodeEncodeError:
-                data = page.encode('utf-8').strip()
+                data = page_content.encode('utf-8').strip()
 
             if data:
                 fout.write(data)
         
-
     def _execute_js(self, lids):
-        self.driver.get(URL.format(lids[10]))
-        time.sleep(self.sleep_time)
+        self.page.goto(URL.format(lids[10]), wait_until='networkidle')
 
         cmd_open_cv = 'abreCV()'
-        self.driver.execute_script(cmd_open_cv)
-        time.sleep(self.sleep_time)
-
-        self.driver.switch_to.window(self.driver.window_handles[-1])
+        self.page.evaluate(cmd_open_cv)
+        
+        # Wait for new page/popup to open
+        self.page.wait_for_timeout(2000)
+        
+        # Get the last page in context (new window)
+        pages = self.context.pages
+        if len(pages) > 1:
+            self.page = pages[-1]
+            self.page.wait_for_load_state('networkidle')
 
         if not lids[16]:
-            lids[16] = self._extract_lid16(self.driver.page_source)
+            page_content = self.page.content()
+            lids[16] = self._extract_lid16(page_content)
 
             if self.lid_type == 16 and len(lids[16]) != 16:
-                #logging.error('It was not possible to obtain Lattes identifier with 16 chars for %s' % str(lids))
                 return
 
-        self.store_html(lids[self.lid_type], self.driver.page_source)
-
-
+        self.store_html(lids[self.lid_type], self.page.content())
 
     def _get_lids_10_16(self, lid):
         lids = {10: '', 16: ''}
@@ -146,18 +132,25 @@ class LattesRobot:
         if len(lid) == 16:
             lids[16] = lid
 
-            self.driver.get(URL_LATTES_ID16.format(lid))
-            lid10 = urllib.parse.parse_qs(urllib.parse.urlparse(self.driver.current_url.encode()).query)[b'id'][0].decode('utf-8')
-
-            if len(lid10) == 10:
-                lids[10] = lid10
+            self.page.goto(URL_LATTES_ID16.format(lid), wait_until='networkidle')
+            current_url = self.page.url
+            parsed = urllib.parse.urlparse(current_url)
+            query_params = urllib.parse.parse_qs(parsed.query)
+            if 'id' in query_params:
+                lid10 = query_params['id'][0]
+                if len(lid10) == 10:
+                    lids[10] = lid10
 
         return lids
 
     def _extract_lid16(self, page_source):
         if bs4:
             soup = bs4.BeautifulSoup(page_source, 'html.parser')
-            lid16 = soup.find('span', attrs={'style': 'font-weight: bold; color: #326C99;'}).text.encode()
+            span = soup.find('span', attrs={'style': 'font-weight: bold; color: #326C99;'})
+            if span:
+                lid16 = span.text.encode()
+            else:
+                return None
         else:
             match = re.search(r'<span style="font-weight: bold; color: #326C99;">(.*?)</span>', page_source)
             if match:
@@ -173,60 +166,62 @@ class LattesRobot:
             ld = len(list(self.identifiers)[0])
             self.lid_type = ld
 
+    def close(self):
+        """Clean up Playwright resources."""
+        if self.browser:
+            self.browser.close()
+        if self.playwright:
+            self.playwright.stop()
+
 
 def __get_data(id_lattes, diretorio):
-    rob = LattesRobot(driver_path="./chromedriver", results_dir=diretorio)
+    rob = LattesRobot(results_dir=diretorio)
     print(f"Baixando CV Lattes: {id_lattes}. Este processo pode demorar alguns segundos.")
     rob.load_codes(id_lattes)
     rob.check_downloaded_cvs()
-    rob.create_driver()
+    rob.create_browser()
 
     try:
-        #logging.info('Collecting cvs (there are %d cvs to be collected)...' % len(rob.identifiers))
         rob.collect_html_cvs(0, None)
-    #except KeyboardInterrupt:
-    #    logging.info('Execution was interrupted')
     finally:
-        rob.driver.quit()
+        rob.close()
 
 
-def baixaCVLattes(id_lattes, diretorio ):
-    # caso nao for baixado, tenta novamente ate 5 vezes
-    count = 5
-    while count>0:
-        __get_data(id_lattes, diretorio)
-
-        if os.path.exists ( diretorio+"/"+id_lattes ):
-            break
-        else:
-            count = count - 1
-
-    #raise Exception("Nao foi possivel baixar o CV Lattes em 5 tentativas")
-    
 def baixaCVLattes(id_lattes, diretorio):
+    """
+    Download a Lattes CV by its identifier.
+    
+    Args:
+        id_lattes: The Lattes identifier (10 or 16 digits)
+        diretorio: Directory to save the downloaded HTML file
+        
+    Raises:
+        Exception: If download fails after 5 attempts
+    """
     max_tentativas = 5
     tentativas = 0
 
     while tentativas < max_tentativas:
-        # se passou sem lançar exception, verifica se o arquivo foi salvo
         destino = os.path.join(diretorio, id_lattes)
         if os.path.exists(destino):
             return
 
         try:
             __get_data(id_lattes, diretorio)
-        except WebDriverException as e:
+        except PlaywrightTimeoutError as e:
+            print(f"Timeout ao baixar {id_lattes}: dormindo 5 minutos antes de tentar novamente...")
+            time.sleep(300)  # 5 minutos
+            print(f"Retomando tentativa de download do CV Lattes: {id_lattes}")
+            continue
+        except Exception as e:
             if 'ERR_CONNECTION_REFUSED' in str(e):
                 print(f"Connection refused ao baixar {id_lattes}: dormindo 5 minutos antes de tentar novamente...")
                 time.sleep(300)  # 5 minutos
                 print(f"Retomando tentativa de download do CV Lattes: {id_lattes}")
-                # não conta essa como tentativa falha, volta ao início do loop
                 continue
             else:
-                # qualquer outro erro, relança
                 raise
 
-        # se passou sem lançar exception, verifica se o arquivo foi salvo
         destino = os.path.join(diretorio, id_lattes)
         if os.path.exists(destino):
             return
@@ -234,9 +229,4 @@ def baixaCVLattes(id_lattes, diretorio):
             tentativas += 1
             print(f"Tentativa #{tentativas} falhou para {id_lattes}. Restam {max_tentativas - tentativas} tentativas.")
 
-    # se esgotou as tentativas sem sucesso
     raise Exception(f"Não foi possível baixar o CV Lattes de {id_lattes} após {max_tentativas} tentativas.")
-
-
-
-

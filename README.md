@@ -32,14 +32,14 @@ O scriptLattes atualmente permite filtrar as produções científicas usando ter
 - **Tratamento de Idiomas**: Suporte para múltiplos idiomas por pesquisador
 
 ## Pré-requisitos
-- **Python 3**: Certifique-se de ter o Python 3 instalado no seu computador. 
+- **Python 3.8+**: Certifique-se de ter o Python 3.8 ou superior instalado no seu computador. 
   Se não tiver, você pode baixá-lo em [python.org](https://www.python.org/downloads/).
-- **Google Chrome ou Chromium**: Necessário para o funcionamento do ChromeDriver.
-- **jq**: Utilitário para processamento JSON (necessário para o Makefile):
+- **jq**: Utilitário para processamento JSON (opcional, para análise de resultados):
   - Ubuntu/Debian: `sudo apt-get install jq`
   - CentOS/RHEL/Fedora: `sudo yum install jq` ou `sudo dnf install jq`
   - macOS: `brew install jq`
-- **wget**: Para download do ChromeDriver (geralmente já instalado)
+
+> **Nota**: O scriptLattes agora usa **Playwright** para automação de browser. Os browsers são instalados automaticamente, não sendo mais necessário gerenciar o ChromeDriver manualmente.
 
 ## Instalação
 
@@ -72,15 +72,14 @@ Para uma instalação completa automatizada, use o Makefile incluído:
 git clone https://github.com/jpmenachalco/scriptLattes.git
 cd scriptLattes
 
-# Instalação completa (ambiente virtual + dependências + ChromeDriver)
+# Instalação completa (ambiente virtual + dependências + Playwright)
 make install
 ```
 
 Este comando irá:
 1. Criar um ambiente virtual Python
 2. Instalar todas as dependências
-3. Detectar automaticamente a versão do seu Chrome/Chromium
-4. Baixar e configurar a versão correta do ChromeDriver
+3. Instalar automaticamente o browser Chromium via Playwright
 
 ### Outros comandos úteis do Makefile:
 
@@ -88,8 +87,10 @@ Este comando irá:
 make help                    # Mostra todos os comandos disponíveis
 make status                  # Verifica o status da instalação
 make test                    # Executa o exemplo de teste
+make test-unit               # Executa os testes unitários
 make clean                   # Limpa arquivos temporários e cache
-make update-chromedriver     # Atualiza o ChromeDriver
+make lint                    # Verifica estilo de código
+make format                  # Formata o código automaticamente
 ```
 
 ## Instalação Manual (Alternativa)
@@ -124,8 +125,10 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 5. Configure o ChromeDriver manualmente
-Baixe o ChromeDriver correspondente à versão do seu navegador em [Chrome for Testing](https://googlechromelabs.github.io/chrome-for-testing/). É importante que as versões sejam compatíveis.
+### 5. Instale os browsers do Playwright
+```bash
+playwright install chromium
+```
 
 ## Execução do Programa
 
@@ -324,10 +327,10 @@ jq '{nome: .informacoes_pessoais.nome_completo, projetos_pesquisa: (.estatistica
 
 ## Solução de Problemas Comuns
 
-### Erro de incompatibilidade do ChromeDriver
-Se você receber um erro como "This version of ChromeDriver only supports Chrome version X", execute:
+### Erro de browser não encontrado (Playwright)
+Se você receber um erro indicando que o browser não foi encontrado, execute:
 ```bash
-make update-chromedriver
+playwright install chromium
 ```
 
 ### Verificar status da instalação
@@ -370,11 +373,12 @@ jq '.areas_de_atuacao | length' json/*.json
 jq '{pesquisa: (.estatisticas.total_projetos_pesquisa), extensao: (.estatisticas.total_projetos_extensao), desenvolvimento: (.estatisticas.total_projetos_desenvolvimento)}' json/*.json
 ```
 
-### Chrome/Chromium não encontrado
-Certifique-se de ter o Google Chrome ou Chromium instalado:
-- Ubuntu/Debian: `sudo apt-get install google-chrome-stable` ou `sudo apt-get install chromium-browser`
-- CentOS/RHEL/Fedora: Baixe do site oficial do Google Chrome
-- macOS: Baixe do site oficial do Google Chrome
+### Browser do Playwright não instalado
+O Playwright gerencia seus próprios browsers automaticamente. Se houver problemas:
+```bash
+# Reinstalar browsers do Playwright
+playwright install chromium
+```
 
 ### Problemas com dependências
 Se houver problemas com as dependências Python:
