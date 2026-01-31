@@ -31,6 +31,130 @@ O scriptLattes atualmente permite filtrar as produções científicas usando ter
 - **Flags Corrigidas**: Reset apropriado de flags de seção
 - **Tratamento de Idiomas**: Suporte para múltiplos idiomas por pesquisador
 
+---
+
+## 🚀 Migração para Playwright (v0.8.0)
+
+A partir da versão **0.8.0**, o scriptLattes migrou de **Selenium** para **Playwright** como ferramenta de automação de browser.
+
+### Por que a mudança?
+
+| Aspecto | Selenium (antes) | Playwright (agora) |
+|---------|------------------|-------------------|
+| **Performance** | Base | **~2.3x mais rápido** |
+| **Gerenciamento de driver** | Manual (ChromeDriver) | **Automático** |
+| **Espera por elementos** | `time.sleep()` manual | **Auto-waiting inteligente** |
+| **Compatibilidade** | Requer versão específica do Chrome | **Gerencia próprios browsers** |
+| **Tamanho do repositório** | +18MB (chromedriver) | **Sem binários extras** |
+
+### Benefícios práticos
+
+1. **Instalação simplificada**: Não precisa mais baixar ChromeDriver manualmente
+2. **Menos erros**: Sem problemas de incompatibilidade de versão Chrome/Driver
+3. **Mais rápido**: Downloads de currículos significativamente mais rápidos
+4. **Mais estável**: Auto-waiting reduz falhas intermitentes
+
+---
+
+## 📚 Tutorial: Primeiros Passos
+
+### Passo 1: Instalação
+
+```bash
+# Clonar o repositório
+git clone https://github.com/ifesserra-lab/scriptLattes.git
+cd scriptLattes
+
+# Instalação rápida (recomendado)
+make install
+
+# OU instalação manual
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+playwright install chromium
+```
+
+### Passo 2: Criar arquivo de lista
+
+Crie um arquivo `minha_lista.list` com os IDs Lattes dos pesquisadores:
+
+```text
+# Um ID por linha (10 ou 16 dígitos)
+8400407353673370 , Paulo Sergio dos Santos Junior
+9583314331960942 , Daniel Cruz Cavalieri
+8826584877205264 , Monalessa Perini Barcellos
+```
+
+### Passo 3: Criar arquivo de configuração
+
+Crie um arquivo `meu_grupo.config`:
+
+```properties
+# Configuração básica
+global-nome_do_grupo           = Meu Grupo de Pesquisa
+global-arquivo_de_entrada      = ./minha_lista.list
+global-diretorio_de_saida      = ./resultados/
+global-diretorio_de_saida_json = ./resultados/json/
+global-email_do_admin          = seu@email.com
+global-itens_desde_o_ano       = 2020
+global-itens_ate_o_ano         = 2025
+
+# Relatórios
+relatorio-incluir_artigo_em_periodico        = sim
+relatorio-incluir_livro_publicado            = sim
+relatorio-incluir_trabalho_completo_em_congresso = sim
+relatorio-incluir_orientacoes                = sim
+```
+
+### Passo 4: Executar
+
+```bash
+# Via linha de comando
+python scriptLattes.py meu_grupo.config
+
+# Via Makefile (usando exemplo)
+make test
+```
+
+### Passo 5: Verificar resultados
+
+```bash
+# Listar JSONs gerados
+ls -la resultados/json/
+
+# Ver detalhes de um pesquisador
+jq '.informacoes_pessoais.nome_completo' resultados/json/*.json
+
+# Ver estatísticas
+jq '.estatisticas' resultados/json/*.json
+```
+
+---
+
+## 🐍 Uso como Biblioteca Python
+
+### Exemplo básico
+
+```python
+from scriptLattes.grupo import Grupo
+
+# Carregar configuração
+grupo = Grupo('meu_grupo.config')
+
+# Processar currículos
+grupo.carregarDadosCVLattes()
+grupo.compilarListasDeItems()
+
+# Gerar saídas
+grupo.gerarArquivosJSONIndividuais()
+
+print("Concluído!")
+```
+
+### Exemplo completo
+
+Veja [`exemplo/manual_example.py`](exemplo/manual_example.py) para um exemplo detalhado.
 ## Pré-requisitos
 - **Python 3.8+**: Certifique-se de ter o Python 3.8 ou superior instalado no seu computador. 
   Se não tiver, você pode baixá-lo em [python.org](https://www.python.org/downloads/).
